@@ -30,7 +30,12 @@
       "source": "US Senate Special Committee on Y2K, major news networks",
       "reality": "January 1st, 2000 arrived without incident. A handful of minor software glitches occurred in obscure systems. Planes did not fall from the sky. Banks did not lose records. Life continued normally.",
       "category": "Tech Apocalypse",
-      "tags": ["y2k", "millennium", "computers", "infrastructure"]
+      "tags": [
+        "y2k",
+        "millennium",
+        "computers",
+        "infrastructure"
+      ]
     },
     {
       "id": "population-bomb",
@@ -39,7 +44,12 @@
       "source": "Paul Ehrlich, 'The Population Bomb'",
       "reality": "Global food production grew faster than population. Famines that did occur were mostly caused by war and politics, not scarcity. Global caloric intake per person has risen significantly since 1968.",
       "category": "Food & Resource Scarcity",
-      "tags": ["population", "famine", "agriculture", "ehrlich"]
+      "tags": [
+        "population",
+        "famine",
+        "agriculture",
+        "ehrlich"
+      ]
     },
     {
       "id": "peak-oil-2010",
@@ -48,7 +58,12 @@
       "source": "ASPO (Association for the Study of Peak Oil), multiple economists",
       "reality": "U.S. oil production hit record highs by the 2010s due to fracking. Global oil supply remained robust. The feared resource wars did not materialize on the predicted scale.",
       "category": "Food & Resource Scarcity",
-      "tags": ["oil", "energy", "peak oil", "resources"]
+      "tags": [
+        "oil",
+        "energy",
+        "peak oil",
+        "resources"
+      ]
     },
     {
       "id": "global-cooling-1970s",
@@ -57,7 +72,12 @@
       "source": "TIME Magazine, National Science Board",
       "reality": "The planet warmed, not cooled. This prediction was based on a partial reading of the science at the time and was not the scientific consensus, though it was widely reported as such.",
       "category": "Environmental Doom",
-      "tags": ["climate", "cooling", "ice age", "1970s"]
+      "tags": [
+        "climate",
+        "cooling",
+        "ice age",
+        "1970s"
+      ]
     },
     {
       "id": "swine-flu-2009",
@@ -66,7 +86,12 @@
       "source": "WHO, CDC, and widespread international media coverage",
       "reality": "H1N1 killed an estimated 151,000–575,000 people globally in its first year — serious, but far below the predicted catastrophic scale. It was later reclassified as a moderately severe flu.",
       "category": "Health Crisis",
-      "tags": ["pandemic", "flu", "h1n1", "swine flu"]
+      "tags": [
+        "pandemic",
+        "flu",
+        "h1n1",
+        "swine flu"
+      ]
     },
     {
       "id": "bird-flu-h5n1",
@@ -75,7 +100,12 @@
       "source": "WHO, Dr. David Nabarro (UN), multiple health agencies",
       "reality": "H5N1 never acquired efficient human-to-human transmission. As of the late 2010s, it had infected fewer than 1,000 people globally over a decade.",
       "category": "Health Crisis",
-      "tags": ["pandemic", "bird flu", "h5n1", "avian flu"]
+      "tags": [
+        "pandemic",
+        "bird flu",
+        "h5n1",
+        "avian flu"
+      ]
     },
     {
       "id": "euro-collapse-2012",
@@ -84,7 +114,13 @@
       "source": "Nouriel Roubini, numerous financial analysts, The Economist",
       "reality": "The Euro survived. Greece received bailouts and remained in the Eurozone. The EU continued to function. While painful austerity followed, the predicted catastrophic breakup did not occur.",
       "category": "Economic Collapse",
-      "tags": ["euro", "europe", "greece", "debt", "currency"]
+      "tags": [
+        "euro",
+        "europe",
+        "greece",
+        "debt",
+        "currency"
+      ]
     },
     {
       "id": "2008-depression",
@@ -93,7 +129,13 @@
       "source": "Multiple economists, financial commentators",
       "reality": "The recession was severe, but stimulus measures and bank bailouts prevented a depression. U.S. unemployment peaked at 10% and fell steadily. The economy recovered within a few years.",
       "category": "Economic Collapse",
-      "tags": ["recession", "banking", "depression", "2008", "finance"]
+      "tags": [
+        "recession",
+        "banking",
+        "depression",
+        "2008",
+        "finance"
+      ]
     },
     {
       "id": "qe-hyperinflation",
@@ -102,7 +144,13 @@
       "source": "Numerous economists, Ron Paul, Peter Schiff, Wall Street Journal op-eds",
       "reality": "Inflation remained historically low through the 2010s, often falling below the Fed's 2% target. The predicted hyperinflation did not materialize despite years of QE.",
       "category": "Economic Collapse",
-      "tags": ["inflation", "fed", "dollar", "quantitative easing", "monetary policy"]
+      "tags": [
+        "inflation",
+        "fed",
+        "dollar",
+        "quantitative easing",
+        "monetary policy"
+      ]
     },
     {
       "id": "japan-domination",
@@ -111,7 +159,13 @@
       "source": "Widespread US media consensus; multiple best-selling books",
       "reality": "Japan's asset bubble burst in 1991, beginning the 'Lost Decade.' Japan's economy stagnated while the U.S. boomed through the 1990s. Japan never overtook the U.S. economy.",
       "category": "Economic Collapse",
-      "tags": ["japan", "trade", "economy", "1980s", "bubble"]
+      "tags": [
+        "japan",
+        "trade",
+        "economy",
+        "1980s",
+        "bubble"
+      ]
     },
     {
       "id": "internet-collapse",
@@ -120,7 +174,12 @@
       "source": "Robert Metcalfe, Ethernet inventor, InfoWorld (he ate his column when wrong)",
       "reality": "The internet scaled remarkably well and grew to connect billions of people. Metcalfe publicly ate his words — literally blending a printed copy of his article and drinking it at a conference.",
       "category": "Tech Apocalypse",
-      "tags": ["internet", "networking", "1990s", "scaling"]
+      "tags": [
+        "internet",
+        "networking",
+        "1990s",
+        "scaling"
+      ]
     },
     {
       "id": "mayan-2012",
@@ -129,7 +188,13 @@
       "source": "Widespread internet culture, multiple books, a Roland Emmerich film",
       "reality": "December 22, 2012 arrived normally. Archaeologists noted that the Mayan calendar simply rolled over to a new cycle, as our own calendar does on January 1st.",
       "category": "Environmental Doom",
-      "tags": ["mayan", "2012", "apocalypse", "nibiru", "doomsday"]
+      "tags": [
+        "mayan",
+        "2012",
+        "apocalypse",
+        "nibiru",
+        "doomsday"
+      ]
     },
     {
       "id": "acid-rain-forests",
@@ -138,7 +203,12 @@
       "source": "West German government reports, widespread European media",
       "reality": "Acid rain was a real problem, but clean air legislation dramatically reduced sulfur emissions. European and North American forests largely recovered. Forest cover has actually increased in many regions.",
       "category": "Environmental Doom",
-      "tags": ["acid rain", "forests", "pollution", "1980s"]
+      "tags": [
+        "acid rain",
+        "forests",
+        "pollution",
+        "1980s"
+      ]
     },
     {
       "id": "ozone-crops",
@@ -147,7 +217,12 @@
       "source": "Various scientific reports following the Montreal Protocol negotiations",
       "reality": "The Montreal Protocol worked. The ozone hole has been measurably recovering since the 2000s. Agricultural catastrophe did not occur. The ozone layer is expected to fully recover by mid-century.",
       "category": "Environmental Doom",
-      "tags": ["ozone", "UV", "atmosphere", "montreal protocol"]
+      "tags": [
+        "ozone",
+        "UV",
+        "atmosphere",
+        "montreal protocol"
+      ]
     },
     {
       "id": "nuclear-war-1983",
@@ -156,7 +231,13 @@
       "source": "KGB intelligence reports; Stanislav Petrov situation; multiple think tanks",
       "reality": "Nuclear war did not occur. The Cold War ended peacefully in 1991 with the dissolution of the Soviet Union. No nuclear weapons have been used in conflict since 1945.",
       "category": "War & Conflict",
-      "tags": ["nuclear", "cold war", "ussr", "arms race", "1983"]
+      "tags": [
+        "nuclear",
+        "cold war",
+        "ussr",
+        "arms race",
+        "1983"
+      ]
     },
     {
       "id": "gulf-war-oil-fires",
@@ -165,7 +246,13 @@
       "source": "Carl Sagan and colleagues; multiple atmospheric scientists",
       "reality": "The fires were extinguished within months. The smoke rose higher than expected but dispersed without the catastrophic atmospheric effects predicted. Global crops were unaffected.",
       "category": "Environmental Doom",
-      "tags": ["gulf war", "kuwait", "oil fires", "nuclear winter", "sagan"]
+      "tags": [
+        "gulf war",
+        "kuwait",
+        "oil fires",
+        "nuclear winter",
+        "sagan"
+      ]
     },
     {
       "id": "sars-pandemic",
@@ -174,7 +261,13 @@
       "source": "WHO emergency declarations; widespread media reporting",
       "reality": "SARS infected about 8,000 people globally and killed 774. Aggressive containment — isolation, contact tracing, travel advisories — stopped it cold. It remains one of public health's great success stories.",
       "category": "Health Crisis",
-      "tags": ["sars", "pandemic", "2003", "china", "containment"]
+      "tags": [
+        "sars",
+        "pandemic",
+        "2003",
+        "china",
+        "containment"
+      ]
     },
     {
       "id": "dotcom-end-of-capitalism",
@@ -183,7 +276,13 @@
       "source": "Multiple financial commentators post-dot-com crash",
       "reality": "Amazon, Google, and Apple went on to become the most valuable companies in history. E-commerce now accounts for trillions of dollars annually. The internet became the central nervous system of global economy.",
       "category": "Tech Apocalypse",
-      "tags": ["dotcom", "internet", "e-commerce", "amazon", "2000"]
+      "tags": [
+        "dotcom",
+        "internet",
+        "e-commerce",
+        "amazon",
+        "2000"
+      ]
     },
     {
       "id": "millennium-bug-planes",
@@ -192,7 +291,12 @@
       "source": "Various Y2K preparedness consultants; media reporting",
       "reality": "Not a single plane fell from the sky. Aviation authorities had prepared extensively, and no significant Y2K-related aviation incidents occurred.",
       "category": "Tech Apocalypse",
-      "tags": ["y2k", "aviation", "aircraft", "millennium"]
+      "tags": [
+        "y2k",
+        "aviation",
+        "aircraft",
+        "millennium"
+      ]
     },
     {
       "id": "ebola-2014-global",
@@ -201,7 +305,13 @@
       "source": "Multiple US media outlets; some public health analysts",
       "reality": "Ebola was devastating in West Africa but was contained. Outside Africa, only a handful of cases occurred — mostly healthcare workers who had treated patients. No global spread materialized.",
       "category": "Health Crisis",
-      "tags": ["ebola", "2014", "pandemic", "africa", "containment"]
+      "tags": [
+        "ebola",
+        "2014",
+        "pandemic",
+        "africa",
+        "containment"
+      ]
     },
     {
       "id": "landfill-crisis-1987",
@@ -210,7 +320,13 @@
       "source": "EPA reports; 'Garbage Crisis' media panic following the Mobro garbage barge",
       "reality": "Recycling expanded, waste management improved, and the garbage crisis never materialized. Landfills became more efficient. Many regions reported surplus capacity.",
       "category": "Environmental Doom",
-      "tags": ["landfill", "garbage", "waste", "recycling", "1980s"]
+      "tags": [
+        "landfill",
+        "garbage",
+        "waste",
+        "recycling",
+        "1980s"
+      ]
     },
     {
       "id": "russia-china-war-1969",
@@ -219,7 +335,14 @@
       "source": "Western intelligence assessments; mainstream media during Ussuri River skirmishes",
       "reality": "The conflict remained a limited border skirmish. China and the Soviet Union stepped back from the brink. Nixon's subsequent opening to China fundamentally changed the geopolitical dynamic.",
       "category": "War & Conflict",
-      "tags": ["china", "russia", "soviet", "nuclear", "1969", "border"]
+      "tags": [
+        "china",
+        "russia",
+        "soviet",
+        "nuclear",
+        "1969",
+        "border"
+      ]
     },
     {
       "id": "ai-takes-all-jobs",
@@ -228,7 +351,13 @@
       "source": "Oxford study by Frey & Osborne (47% of jobs at risk); widely cited in media",
       "reality": "Automation has transformed many jobs without eliminating them at scale. US unemployment hit record lows in the late 2010s. New job categories emerged. The predicted mass unemployment did not materialize.",
       "category": "Tech Apocalypse",
-      "tags": ["AI", "automation", "robots", "jobs", "unemployment"]
+      "tags": [
+        "AI",
+        "automation",
+        "robots",
+        "jobs",
+        "unemployment"
+      ]
     },
     {
       "id": "super-gonorrhea-extinction",
@@ -237,7 +366,12 @@
       "source": "WHO; widespread media reporting",
       "reality": "Drug-resistant gonorrhea remains a serious public health concern, but new treatments continue to be developed. The predicted untreatable global outbreak did not materialize by the predicted timeline.",
       "category": "Health Crisis",
-      "tags": ["antibiotic resistance", "gonorrhea", "bacteria", "sexual health"]
+      "tags": [
+        "antibiotic resistance",
+        "gonorrhea",
+        "bacteria",
+        "sexual health"
+      ]
     },
     {
       "id": "water-wars-2000",
@@ -246,7 +380,13 @@
       "source": "World Bank VP Ismail Serageldin; numerous geopolitical analysts",
       "reality": "Water scarcity is a genuine ongoing challenge, but widespread 'water wars' have not materialized. International water-sharing agreements have largely held.",
       "category": "War & Conflict",
-      "tags": ["water", "resources", "wars", "scarcity", "rivers"]
+      "tags": [
+        "water",
+        "resources",
+        "wars",
+        "scarcity",
+        "rivers"
+      ]
     },
     {
       "id": "social-media-democracy-collapse",
@@ -255,7 +395,12 @@
       "source": "Multiple political scientists; Eli Pariser 'The Filter Bubble'",
       "reality": "Democratic elections continued to take place in nearly all established democracies. Social media has created real challenges for political discourse, but democracy has proven more resilient than predicted.",
       "category": "Social Breakdown",
-      "tags": ["social media", "democracy", "elections", "filter bubble"]
+      "tags": [
+        "social media",
+        "democracy",
+        "elections",
+        "filter bubble"
+      ]
     },
     {
       "id": "5g-health-crisis",
@@ -264,7 +409,13 @@
       "source": "Viral social media; fringe scientists; widely shared petitions",
       "reality": "5G has been deployed in hundreds of cities globally. No evidence of the predicted health effects has emerged. Major health agencies worldwide found no evidence of harm.",
       "category": "Health Crisis",
-      "tags": ["5g", "wireless", "radiation", "cancer", "conspiracy"]
+      "tags": [
+        "5g",
+        "wireless",
+        "radiation",
+        "cancer",
+        "conspiracy"
+      ]
     },
     {
       "id": "nuclear-power-meltdown-epidemic",
@@ -273,7 +424,12 @@
       "source": "Anti-nuclear movement; various safety engineers; media consensus",
       "reality": "Three Mile Island was the only significant US nuclear accident. No additional major meltdowns occurred in America. The industry continued operating with an improved safety record.",
       "category": "Tech Apocalypse",
-      "tags": ["nuclear power", "three mile island", "meltdown", "1979"]
+      "tags": [
+        "nuclear power",
+        "three mile island",
+        "meltdown",
+        "1979"
+      ]
     },
     {
       "id": "bee-colony-collapse",
@@ -282,7 +438,12 @@
       "source": "Multiple environmental scientists; UNEP reports; mainstream media",
       "reality": "Colony collapse disorder remains a concern, but bee populations have shown resilience. US honeybee colony numbers stabilized. Global food production continued to grow.",
       "category": "Environmental Doom",
-      "tags": ["bees", "colony collapse", "agriculture", "pollination"]
+      "tags": [
+        "bees",
+        "colony collapse",
+        "agriculture",
+        "pollination"
+      ]
     },
     {
       "id": "crack-baby-epidemic",
@@ -291,7 +452,13 @@
       "source": "CBS News, multiple pediatric researchers, Congressional testimony",
       "reality": "Follow-up studies showed crack-exposed children fared no worse — and sometimes better — than children exposed to tobacco or alcohol. Poverty was the far greater developmental factor.",
       "category": "Social Breakdown",
-      "tags": ["crack cocaine", "crack babies", "1980s", "drugs", "neurology"]
+      "tags": [
+        "crack cocaine",
+        "crack babies",
+        "1980s",
+        "drugs",
+        "neurology"
+      ]
     },
     {
       "id": "cia-crack-baby-epidemic",
@@ -300,7 +467,13 @@
       "source": "US government addiction researchers; Congressional reports",
       "reality": "A landmark Lee Robins study found 95% of addicted veterans simply stopped using heroin after returning home. The vast majority of returning soldiers did not become lifetime addicts.",
       "category": "Social Breakdown",
-      "tags": ["vietnam", "heroin", "addiction", "veterans", "1970s"]
+      "tags": [
+        "vietnam",
+        "heroin",
+        "addiction",
+        "veterans",
+        "1970s"
+      ]
     },
     {
       "id": "google-glasses-everywhere",
@@ -309,7 +482,13 @@
       "source": "Widespread tech media and privacy advocates",
       "reality": "Google Glass was a commercial failure, discontinued for consumers in 2015. The feared 'glasshole' surveillance dystopia never arrived.",
       "category": "Tech Apocalypse",
-      "tags": ["google glass", "augmented reality", "privacy", "surveillance", "wearables"]
+      "tags": [
+        "google glass",
+        "augmented reality",
+        "privacy",
+        "surveillance",
+        "wearables"
+      ]
     },
     {
       "id": "japans-lost-decade-end-of-west",
@@ -318,7 +497,13 @@
       "source": "Multiple economic commentators post-Japanese bubble peak",
       "reality": "Japan's bubble burst spectacularly. The 'Asian model' fell from favor after the 1997 Asian financial crisis. Western capitalism, while flawed, did not face the predicted obsolescence.",
       "category": "Economic Collapse",
-      "tags": ["japan", "asia", "capitalism", "economic model", "1990s"]
+      "tags": [
+        "japan",
+        "asia",
+        "capitalism",
+        "economic model",
+        "1990s"
+      ]
     },
     {
       "id": "video-games-violence",
@@ -327,7 +512,13 @@
       "source": "US Senate hearings; Joseph Lieberman; American Psychological Association",
       "reality": "Youth violent crime in the US fell dramatically through the 1990s and 2000s — the very period when violent video games became mainstream. Research consistently failed to find a causal link.",
       "category": "Social Breakdown",
-      "tags": ["video games", "violence", "youth", "crime", "morality"]
+      "tags": [
+        "video games",
+        "violence",
+        "youth",
+        "crime",
+        "morality"
+      ]
     },
     {
       "id": "covid-second-wave-no-recovery",
@@ -336,7 +527,13 @@
       "source": "Multiple financial analysts; IMF worst-case scenarios",
       "reality": "The recovery was remarkably fast. US unemployment dropped from 14.7% in April 2020 to below 4% by 2022. Stock markets recovered within months. The feared decade-long depression did not materialize.",
       "category": "Economic Collapse",
-      "tags": ["covid", "pandemic", "depression", "unemployment", "recovery"]
+      "tags": [
+        "covid",
+        "pandemic",
+        "depression",
+        "unemployment",
+        "recovery"
+      ]
     },
     {
       "id": "bitcoin-zero-2018",
@@ -345,7 +542,13 @@
       "source": "Nouriel Roubini, multiple economists and financial commentators post-2017 crash",
       "reality": "Bitcoin recovered and hit new all-time highs in 2020 and 2021. The entire crypto asset class continued to exist and grow, though with significant volatility.",
       "category": "Economic Collapse",
-      "tags": ["bitcoin", "cryptocurrency", "bubble", "finance", "2018"]
+      "tags": [
+        "bitcoin",
+        "cryptocurrency",
+        "bubble",
+        "finance",
+        "2018"
+      ]
     },
     {
       "id": "print-media-death",
@@ -354,7 +557,13 @@
       "source": "Multiple media analysts; Clay Shirky; widespread tech commentators",
       "reality": "Print circulation fell sharply, but journalism survived and adapted. Digital news outlets flourished. Investigative journalism continued producing major exposes. The profession, though transformed, did not disappear.",
       "category": "Social Breakdown",
-      "tags": ["newspapers", "journalism", "internet", "print media", "2008"]
+      "tags": [
+        "newspapers",
+        "journalism",
+        "internet",
+        "print media",
+        "2008"
+      ]
     },
     {
       "id": "iran-war-2007",
@@ -363,7 +572,13 @@
       "source": "Seymour Hersh reporting; multiple intelligence analysts; widespread media",
       "reality": "The US did not strike Iran. Diplomatic channels, including the 2015 nuclear deal, became the primary approach. As of the mid-2020s, direct US-Iran military conflict has not occurred.",
       "category": "War & Conflict",
-      "tags": ["iran", "middle east", "war", "nuclear", "2007"]
+      "tags": [
+        "iran",
+        "middle east",
+        "war",
+        "nuclear",
+        "2007"
+      ]
     },
     {
       "id": "north-korea-war-2017",
@@ -372,7 +587,14 @@
       "source": "Multiple US defense analysts; H.R. McMaster statements; media consensus",
       "reality": "After a period of extreme tension, Trump and Kim Jong-un held summits in 2018-2019. No war occurred. North Korea continues to develop weapons, but large-scale conflict has been avoided.",
       "category": "War & Conflict",
-      "tags": ["north korea", "nuclear", "korea", "2017", "trump", "kim"]
+      "tags": [
+        "north korea",
+        "nuclear",
+        "korea",
+        "2017",
+        "trump",
+        "kim"
+      ]
     },
     {
       "id": "alar-scare-apples",
@@ -381,7 +603,14 @@
       "source": "60 Minutes; Natural Resources Defense Council; widespread media",
       "reality": "The EPA later concluded that Alar posed no significant health risk at consumption levels. The scare caused enormous economic damage to apple farmers. No pediatric cancer epidemic emerged.",
       "category": "Health Crisis",
-      "tags": ["alar", "pesticides", "apples", "cancer", "food safety", "1989"]
+      "tags": [
+        "alar",
+        "pesticides",
+        "apples",
+        "cancer",
+        "food safety",
+        "1989"
+      ]
     },
     {
       "id": "facebook-owns-democracy",
@@ -390,7 +619,13 @@
       "source": "Multiple political scientists; tech journalists; post-2016 analysis",
       "reality": "Elections have continued in over 100 countries. While social media has real effects on political discourse, elections have not ceased. Several incumbents backed by sophisticated social media operations have lost.",
       "category": "Political Catastrophe",
-      "tags": ["facebook", "social media", "elections", "democracy", "2016"]
+      "tags": [
+        "facebook",
+        "social media",
+        "elections",
+        "democracy",
+        "2016"
+      ]
     },
     {
       "id": "robots-replace-surgeons",
@@ -399,7 +634,14 @@
       "source": "McKinsey Global Institute; multiple technology forecasters",
       "reality": "AI has become a powerful tool for these professions, but has not replaced them. The number of licensed surgeons, lawyers, and accountants has grown. New AI-adjacent roles emerged alongside old ones.",
       "category": "Tech Apocalypse",
-      "tags": ["AI", "automation", "professions", "surgeons", "lawyers", "white collar"]
+      "tags": [
+        "AI",
+        "automation",
+        "professions",
+        "surgeons",
+        "lawyers",
+        "white collar"
+      ]
     },
     {
       "id": "china-collapse-2001",
@@ -408,7 +650,13 @@
       "source": "Gordon Chang, 'The Coming Collapse of China'",
       "reality": "China did not collapse. It became the world's second-largest economy, lifted hundreds of millions out of poverty, and joined the WTO. The book's prediction remains spectacularly unfulfilled.",
       "category": "Economic Collapse",
-      "tags": ["china", "economy", "collapse", "2001", "gordon chang"]
+      "tags": [
+        "china",
+        "economy",
+        "collapse",
+        "2001",
+        "gordon chang"
+      ]
     },
     {
       "id": "telephones-rot-brain",
@@ -417,7 +665,13 @@
       "source": "American medical journals; physician letters to newspapers",
       "reality": "Telephones became ubiquitous without any such health effects. The predicted epidemic of telephone-induced neurological disease never occurred.",
       "category": "Health Crisis",
-      "tags": ["telephone", "electricity", "19th century", "neurology", "technology"]
+      "tags": [
+        "telephone",
+        "electricity",
+        "19th century",
+        "neurology",
+        "technology"
+      ]
     },
     {
       "id": "video-cassette-piracy",
@@ -426,7 +680,14 @@
       "source": "Jack Valenti, MPAA President, Congressional testimony",
       "reality": "The VCR created the home video market, which became a massive revenue stream for studios. Home video sales and rentals generated more revenue than theatrical releases for decades.",
       "category": "Tech Apocalypse",
-      "tags": ["VCR", "piracy", "film industry", "MPAA", "1982", "copyright"]
+      "tags": [
+        "VCR",
+        "piracy",
+        "film industry",
+        "MPAA",
+        "1982",
+        "copyright"
+      ]
     },
     {
       "id": "mad-cow-uk-epidemic",
@@ -435,7 +696,15 @@
       "source": "UK government scientists; Nature journal estimates; widespread media",
       "reality": "vCJD caused approximately 180 deaths in the UK through 2020. Devastating for those affected, but the predicted mass epidemic did not materialize.",
       "category": "Health Crisis",
-      "tags": ["mad cow", "BSE", "CJD", "prion", "beef", "UK", "1990s"]
+      "tags": [
+        "mad cow",
+        "BSE",
+        "CJD",
+        "prion",
+        "beef",
+        "UK",
+        "1990s"
+      ]
     },
     {
       "id": "powerline-cancer",
@@ -444,7 +713,14 @@
       "source": "New Yorker (Paul Brodeur); widespread media; some scientists",
       "reality": "Decades of follow-up studies found no consistent evidence linking power line EMF to childhood leukemia. The proposed epidemic never materialized. EMF guidelines were set conservatively as a precaution.",
       "category": "Health Crisis",
-      "tags": ["power lines", "EMF", "cancer", "leukemia", "radiation", "1989"]
+      "tags": [
+        "power lines",
+        "EMF",
+        "cancer",
+        "leukemia",
+        "radiation",
+        "1989"
+      ]
     },
     {
       "id": "killer-bees-invasion",
@@ -453,7 +729,13 @@
       "source": "USDA entomologists; widespread media; multiple government reports",
       "reality": "Africanized bees did reach the US (Texas, 1990) but their impact was far more limited than predicted. Annual deaths from all bee stings in the US typically range from 40–100.",
       "category": "Health Crisis",
-      "tags": ["killer bees", "africanized bees", "insects", "1970s", "invasion"]
+      "tags": [
+        "killer bees",
+        "africanized bees",
+        "insects",
+        "1970s",
+        "invasion"
+      ]
     },
     {
       "id": "asteroid-2029",
@@ -462,7 +744,13 @@
       "source": "NASA JPL; widespread science media",
       "reality": "Further orbital calculations eliminated any 2029 impact risk. Apophis will pass within 20,000 miles of Earth in 2029 — close but safe. NASA confirmed zero impact risk through at least 2116.",
       "category": "Environmental Doom",
-      "tags": ["asteroid", "apophis", "2029", "impact", "space"]
+      "tags": [
+        "asteroid",
+        "apophis",
+        "2029",
+        "impact",
+        "space"
+      ]
     },
     {
       "id": "superbug-mrsa-apocalypse",
@@ -471,7 +759,13 @@
       "source": "JAMA study; CDC; widespread media",
       "reality": "MRSA rates declined significantly after peak years in 2007. Infection control practices improved. While antibiotic resistance remains a serious public health concern, the predicted AIDS-scale pandemic did not materialize.",
       "category": "Health Crisis",
-      "tags": ["MRSA", "antibiotic resistance", "superbug", "bacteria", "2007"]
+      "tags": [
+        "MRSA",
+        "antibiotic resistance",
+        "superbug",
+        "bacteria",
+        "2007"
+      ]
     },
     {
       "id": "teen-internet-addiction",
@@ -480,7 +774,13 @@
       "source": "Multiple psychologists; media panics; congressional hearings",
       "reality": "While excessive screen time has real effects, the predicted generation of clinically addicted, unemployable young people did not emerge. Millennials — the first internet generation — show high rates of education and workforce participation.",
       "category": "Social Breakdown",
-      "tags": ["internet", "addiction", "teenagers", "screen time", "2000s"]
+      "tags": [
+        "internet",
+        "addiction",
+        "teenagers",
+        "screen time",
+        "2000s"
+      ]
     },
     {
       "id": "iran-nuclear-bomb-2007",
@@ -489,7 +789,13 @@
       "source": "Multiple US intelligence assessments (later revised); numerous think tanks",
       "reality": "Iran did not produce a nuclear weapon. The 2015 nuclear deal significantly constrained its program. No nuclear exchange with Israel occurred.",
       "category": "War & Conflict",
-      "tags": ["iran", "nuclear weapons", "israel", "middle east", "2007"]
+      "tags": [
+        "iran",
+        "nuclear weapons",
+        "israel",
+        "middle east",
+        "2007"
+      ]
     },
     {
       "id": "tv-rots-children",
@@ -498,7 +804,14 @@
       "source": "Marie Winn 'The Plug-In Drug'; FCC Chairman Newton Minow; prominent educators",
       "reality": "Literacy rates continued to improve globally through the television age. Critical thinking skills, while always in debate, did not collapse. The feared generation of illiterates never arrived.",
       "category": "Social Breakdown",
-      "tags": ["television", "TV", "children", "literacy", "1960s", "media"]
+      "tags": [
+        "television",
+        "TV",
+        "children",
+        "literacy",
+        "1960s",
+        "media"
+      ]
     },
     {
       "id": "ecommerce-never-work",
@@ -507,7 +820,1524 @@
       "source": "Clifford Stoll, Newsweek; multiple retail analysts",
       "reality": "Global e-commerce surpassed $5 trillion annually by the early 2020s. Billions of people routinely make online purchases. Amazon became one of the most valuable companies in history.",
       "category": "Tech Apocalypse",
-      "tags": ["e-commerce", "internet", "amazon", "shopping", "1990s", "credit cards"]
+      "tags": [
+        "e-commerce",
+        "internet",
+        "amazon",
+        "shopping",
+        "1990s",
+        "credit cards"
+      ]
+    },
+    {
+      "id": "1000-pope-sylvester-ii-various-christian-cl",
+      "year": 1000,
+      "prediction": "Various Christian clerics predicted this date as the Millennium , including Pope Sylvester II . As a result, riots are said to have occurred in Europe and pilgrims headed east to Jerusalem. Many historians, however, dispute that any of these events ever took place.",
+      "source": "Pope Sylvester II",
+      "reality": "The predicted event did not occur as described by 1005.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1033-various-christians-following-the-failur",
+      "year": 1033,
+      "prediction": "Following the failure of the 1 January 1000 prediction, some theorists proposed that the end would occur 1,000 years after Jesus' death, instead of his birth.",
+      "source": "Various Christians",
+      "reality": "The predicted event did not occur as described by 1038.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1200-joachim-of-fiore-this-italian-mystic",
+      "year": 1200,
+      "prediction": "This Italian mystic determined that the Millennium would begin between 1200 and 1260.",
+      "source": "Joachim of Fiore",
+      "reality": "The predicted event did not occur as described by 1205.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1284-pope-innocent-iii-pope-innocent-iii-d",
+      "year": 1284,
+      "prediction": "Pope Innocent III (died 1216) predicted that the world would end 666 years after the rise of Islam.",
+      "source": "Pope Innocent III",
+      "reality": "The predicted event did not occur as described by 1289.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1290-joachimites-after-his-1260-predi",
+      "year": 1290,
+      "prediction": "After his 1260 prediction failed, the followers of Joachim of Fiore rescheduled the end of the world to 1290 and then again to 1335.",
+      "source": "Joachimites",
+      "reality": "The predicted event did not occur as described by 1295.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1346-various-europeans-the-black-plague-spr",
+      "year": 1346,
+      "prediction": "The black plague spreading across Europe was interpreted by many as the sign of the end of times.",
+      "source": "Various Europeans",
+      "reality": "The predicted event did not occur as described by 1351.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1368-jean-de-roquetaillade-this-french-alchem",
+      "year": 1368,
+      "prediction": "This French alchemist predicted the Antichrist was to come in 1366 and the Millennium would begin either in 1368 or 1370.",
+      "source": "Jean de Roquetaillade",
+      "reality": "The predicted event did not occur as described by 1373.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1378-arnaldus-de-villa-nova-this-joachite-wro",
+      "year": 1378,
+      "prediction": "This Joachite wrote that the Antichrist was to come during this year.",
+      "source": "Arnaldus de Villa Nova",
+      "reality": "The predicted event did not occur as described by 1383.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1492-various-russian-christians-many-russian",
+      "year": 1492,
+      "prediction": "Many Russian Orthodox Christians beginning from the 1400s believed this year would see Christ's return, since it would be the end of the seventh millennium and the start of the eighth millennium (the year 8000) according to the Byzantine calendar . In 1408, this belief led to the Russian Orthodox Church making the decision not to compute the date of Easter beyond 1491.",
+      "source": "Various Russian Christians",
+      "reality": "The predicted event did not occur as described by 1497.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1504-sandro-botticelli-this-painter-believe",
+      "year": 1504,
+      "prediction": "This painter believed he was living during the Tribulation, and that the Millennium would begin in three and a half years from 1500. He wrote into his painting The Mystical Nativity that the Devil was loose and would soon be chained.",
+      "source": "Sandro Botticelli",
+      "reality": "The predicted event did not occur as described by 1509.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1524-london-astrologers-a-group-of-astrologe",
+      "year": 1524,
+      "prediction": "A group of astrologers in London predicted the world would end by a flood starting in London, based on calculations made the previous June. Twenty thousand Londoners left their homes and headed for higher ground in anticipation.",
+      "source": "London astrologers",
+      "reality": "The predicted event did not occur as described by 1529.",
+      "category": "Environmental Doom",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1524-johannes-st-ffler-a-planetary-alignmen",
+      "year": 1524,
+      "prediction": "A planetary alignment in Pisces was seen by this astrologer as a sign of the Millennium.",
+      "source": "Johannes Stöffler",
+      "reality": "The predicted event did not occur as described by 1529.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1524-thomas-m-ntzer-1525-would-mark-the",
+      "year": 1524,
+      "prediction": "1525 would mark the beginning of the Millennium, according to this Anabaptist . His followers were killed by cannon fire in an uneven battle with government troops. He died under torture and was beheaded.",
+      "source": "Thomas Müntzer",
+      "reality": "The predicted event did not occur as described by 1529.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1528-hans-hut-this-german-anabapti",
+      "year": 1528,
+      "prediction": "This German Anabaptist predicted the end would occur on this date.",
+      "source": "Hans Hut",
+      "reality": "The predicted event did not occur as described by 1533.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1528-johannes-st-ffler-a-revised-date-from",
+      "year": 1528,
+      "prediction": "A revised date from Stöffler after his 1524 prediction failed to come true.",
+      "source": "Johannes Stöffler",
+      "reality": "The predicted event did not occur as described by 1533.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1533-michael-stifel-this-mathematician-c",
+      "year": 1533,
+      "prediction": "This mathematician calculated that Judgement Day would begin at 8:00 am on this day.",
+      "source": "Michael Stifel",
+      "reality": "The predicted event did not occur as described by 1538.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1533-melchior-hoffman-this-anabaptist-prop",
+      "year": 1533,
+      "prediction": "This Anabaptist prophet predicted Christ's Second Coming to take place this year in Strasbourg . He claimed that 144,000 people would be saved, while the rest of the world would be consumed by fire.",
+      "source": "Melchior Hoffman",
+      "reality": "The predicted event did not occur as described by 1538.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1534-jan-matthys-during-the-m-nster-r",
+      "year": 1534,
+      "prediction": "During the Münster rebellion , this Anabaptist leader declared that the apocalypse would take place on this day. When the day came he led a failed attack against Franz von Waldeck and was decapitated.",
+      "source": "Jan Matthys",
+      "reality": "The predicted event did not occur as described by 1539.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1555-pierre-d-ailly-around-1400-this-fr",
+      "year": 1555,
+      "prediction": "Around 1400, this French theologian wrote that 6845 years of human history had already passed, and the end of the world would be in the 7000th year.",
+      "source": "Pierre d'Ailly",
+      "reality": "The predicted event did not occur as described by 1560.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1585-michael-servetus-in-his-book-the-rest",
+      "year": 1585,
+      "prediction": "In his book The Restoration of Christianity , the Spanish born reformer claimed that the Devil's reign in this world had started in 325 AD, at the Council of Nicea , and would last for 1260 years, thus ending in 1585.",
+      "source": "Michael Servetus",
+      "reality": "The predicted event did not occur as described by 1590.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1588-regiomontanus-this-mathematician-a",
+      "year": 1588,
+      "prediction": "This mathematician and astronomer predicted the end of the world during this year.",
+      "source": "Regiomontanus",
+      "reality": "The predicted event did not occur as described by 1593.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1600-martin-luther-luther-a-german-pri",
+      "year": 1600,
+      "prediction": "Luther, a German priest and professor of theology, predicted the end of the world would occur no later than 1600.",
+      "source": "Martin Luther",
+      "reality": "The predicted event did not occur as described by 1605.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1624-london-astrologers-the-same-astrologers",
+      "year": 1624,
+      "prediction": "The same astrologers who had predicted the deluge of 1 February 1524 recalculated the date to 100 years later after their first prophecy failed.",
+      "source": "London astrologers",
+      "reality": "The predicted event did not occur as described by 1629.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1648-sabbatai-zevi-using-the-kabbalah",
+      "year": 1648,
+      "prediction": "Using the kabbalah , this rabbi from Turkey proclaimed that the Messiah would come during that year.",
+      "source": "Sabbatai Zevi",
+      "reality": "The predicted event did not occur as described by 1653.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1651-unknown-author-from-l-beck-germany-the",
+      "year": 1651,
+      "prediction": "The apocalypse maps tell of an Antichrist, the rise of Islam and other events following Judgement Day that was predicted to occur in 1651.",
+      "source": "Unknown author from Lübeck , Germany",
+      "reality": "The predicted event did not occur as described by 1656.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1654-helisaeus-roeslin-this-physician-made",
+      "year": 1654,
+      "prediction": "This physician made a prediction that the world would end this year based on a nova that occurred in 1572.",
+      "source": "Helisaeus Roeslin",
+      "reality": "The predicted event did not occur as described by 1659.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1656-christopher-columbus-in-his-book-of-prop",
+      "year": 1656,
+      "prediction": "In his Book of Prophecies (1501), Columbus predicted that the world would end during this year.",
+      "source": "Christopher Columbus",
+      "reality": "The predicted event did not occur as described by 1661.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1655-fifth-monarchists-this-group-of-radica",
+      "year": 1655,
+      "prediction": "This group of radical Christians predicted that the final apocalyptic battle and the destruction of the Antichrist were to take place between 1655 and 1657.",
+      "source": "Fifth Monarchists",
+      "reality": "The predicted event did not occur as described by 1660.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1658-christopher-columbus-columbus-claimed-th",
+      "year": 1658,
+      "prediction": "Columbus claimed that the world was created in 5343 BCE and would last 7,000 years. Assuming no year zero, that means the end would come in 1658.",
+      "source": "Christopher Columbus",
+      "reality": "The predicted event did not occur as described by 1663.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1660-joseph-mede-mede-claimed-that-th",
+      "year": 1660,
+      "prediction": "Mede claimed that the Antichrist had appeared in 456, and the end would come in 1660.",
+      "source": "Joseph Mede",
+      "reality": "The predicted event did not occur as described by 1665.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1666-sabbatai-zevi-following-his-failed",
+      "year": 1666,
+      "prediction": "Following his failed prediction of 1648, Zevi recalculated the end of the Earth for this year.",
+      "source": "Sabbatai Zevi",
+      "reality": "The predicted event did not occur as described by 1671.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1673-william-aspinwall-this-fifth-monarchis",
+      "year": 1673,
+      "prediction": "This Fifth Monarchist claimed the Millennium would begin by this year.",
+      "source": "William Aspinwall",
+      "reality": "The predicted event did not occur as described by 1678.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1688-john-napier-this-mathematician-c",
+      "year": 1688,
+      "prediction": "This mathematician calculated the end of the world would be on this year based on calculations from the Book of Revelation .",
+      "source": "John Napier",
+      "reality": "The predicted event did not occur as described by 1693.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1689-pierre-jurieu-this-prophet-predict",
+      "year": 1689,
+      "prediction": "This prophet predicted that Judgement Day would occur this year.",
+      "source": "Pierre Jurieu",
+      "reality": "The predicted event did not occur as described by 1694.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1694-john-mason-this-anglican-priest",
+      "year": 1694,
+      "prediction": "This Anglican priest predicted the Millennium would begin by this year.",
+      "source": "John Mason",
+      "reality": "The predicted event did not occur as described by 1699.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1697-cotton-mather-this-puritan-ministe",
+      "year": 1697,
+      "prediction": "This Puritan minister predicted the world would end this year. After the prediction failed, he revised the date of the end two more times.",
+      "source": "Cotton Mather",
+      "reality": "The predicted event did not occur as described by 1702.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1700-john-napier-following-his-1688-p",
+      "year": 1700,
+      "prediction": "Following his 1688 prediction, Napier recalculated his end of the world prediction to 1700 in A Plaine Discovery , a book published in 1593.",
+      "source": "John Napier",
+      "reality": "The predicted event did not occur as described by 1705.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1705-camisards-camisard-prophets-pr",
+      "year": 1705,
+      "prediction": "Camisard prophets predicted the end of the world would occur in either 1705, 1706 or 1708.",
+      "source": "Camisards",
+      "reality": "The predicted event did not occur as described by 1710.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1716-cotton-mather-revised-prediction-f",
+      "year": 1716,
+      "prediction": "Revised prediction from Mather after his 1697 prediction failed to come true.",
+      "source": "Cotton Mather",
+      "reality": "The predicted event did not occur as described by 1721.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1719-jacob-bernoulli-this-mathematician-p",
+      "year": 1719,
+      "prediction": "This mathematician predicted a comet would destroy the Earth on this day.",
+      "source": "Jacob Bernoulli",
+      "reality": "The predicted event did not occur as described by 1724.",
+      "category": "Environmental Doom",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1700-nicholas-of-cusa-this-medieval-cardin",
+      "year": 1700,
+      "prediction": "This medieval cardinal predicted the end would occur between 1700 and 1734.",
+      "source": "Nicholas of Cusa",
+      "reality": "The predicted event did not occur as described by 1705.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1736-william-whiston-this-theologian-pred",
+      "year": 1736,
+      "prediction": "This theologian predicted a comet colliding with the Earth this year.",
+      "source": "William Whiston",
+      "reality": "The predicted event did not occur as described by 1741.",
+      "category": "Environmental Doom",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1736-cotton-mather-mather-s-third-and-f",
+      "year": 1736,
+      "prediction": "Mather's third and final prediction for the end of the world.",
+      "source": "Cotton Mather",
+      "reality": "The predicted event did not occur as described by 1741.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1757-emanuel-swedenborg-swedenborg-a-luther",
+      "year": 1757,
+      "prediction": "Swedenborg, a Lutheran theologian, claimed that the Last Judgement occurred in the spiritual world this year.",
+      "source": "Emanuel Swedenborg",
+      "reality": "The predicted event did not occur as described by 1762.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1780-connecticut-general-assembly-members-ne",
+      "year": 1780,
+      "prediction": "The sky turning dark during the day was interpreted as a sign of the end times . The primary cause of the event is believed to have been a combination of smoke from forest fires, a thick fog, and cloud cover.",
+      "source": "Connecticut General Assembly members, New Englanders",
+      "reality": "The predicted event did not occur as described by 1785.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1789-pierre-d-ailly-the-year-1789-would",
+      "year": 1789,
+      "prediction": "The year 1789 would bring the coming of the Antichrist, according to this 14th-century cardinal.",
+      "source": "Pierre d'Ailly",
+      "reality": "The predicted event did not occur as described by 1794.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1792-shakers-the-shakers-a-chris",
+      "year": 1792,
+      "prediction": "The Shakers, a Christian sect founded in 18th-century England, predicted the world would end in 1792 and then in 1794.",
+      "source": "Shakers",
+      "reality": "The predicted event did not occur as described by 1797.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1795-nathaniel-brassey-halhed-while-campaigni",
+      "year": 1795,
+      "prediction": "While campaigning for Richard Brothers ' release, Halhead proclaimed that the world would end on this day.",
+      "source": "Nathaniel Brassey Halhed",
+      "reality": "The predicted event did not occur as described by 1800.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1793-richard-brothers-this-retired-sailor",
+      "year": 1793,
+      "prediction": "This retired sailor stated the Millennium would begin between 1793 and 1795. He was eventually committed to an insane asylum.",
+      "source": "Richard Brothers",
+      "reality": "The predicted event did not occur as described by 1798.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1805-christopher-love-this-presbyterian-mi",
+      "year": 1805,
+      "prediction": "This Presbyterian minister predicted the destruction of the world by earthquake in 1805, followed by an age of everlasting peace when God would be known by all.",
+      "source": "Christopher Love",
+      "reality": "The predicted event did not occur as described by 1810.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1806-mary-bateman-in-leeds-england",
+      "year": 1806,
+      "prediction": "In Leeds, England , in 1806 a hen began laying eggs on which the phrase \"Christ is coming\" was written. Eventually it was discovered to be a hoax. The owner, Mary Bateman , had written on the eggs in a corrosive ink so as to etch the eggs, and reinserted the eggs back into the hen's oviduct .",
+      "source": "Mary Bateman",
+      "reality": "The predicted event did not occur as described by 1811.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1814-joanna-southcott-this-64-year-old-sel",
+      "year": 1814,
+      "prediction": "This 64-year-old self-described prophet claimed she was pregnant with the Christ child, and that he would be born on 19 October 1814. She died later that year having not delivered a child, and an autopsy proved she had not been pregnant.",
+      "source": "Joanna Southcott",
+      "reality": "The predicted event did not occur as described by 1819.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1833-various-during-a-large-leoni",
+      "year": 1833,
+      "prediction": "During a large Leonids meteor shower, several people including Joseph Smith believed that it was a sign of Jesus' second coming .",
+      "source": "Various",
+      "reality": "The predicted event did not occur as described by 1838.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1836-johann-albrecht-bengel-in-the-1730s-this",
+      "year": 1836,
+      "prediction": "In the 1730s this Lutheran clergyman proclaimed that Judgment Day would come in 1836, with the pope as the anti-Christ and the Freemasons representing the \"false prophet\" of Revelations.",
+      "source": "Johann Albrecht Bengel",
+      "reality": "The predicted event did not occur as described by 1841.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1836-john-wesley-wesley-the-founder",
+      "year": 1836,
+      "prediction": "Wesley, the founder of the Methodist Church, foresaw the Millennium beginning this year. He wrote that Revelation 12:14 referred to 1058 to 1836, \"when Christ should come\".",
+      "source": "John Wesley",
+      "reality": "The predicted event did not occur as described by 1841.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1843-millerites-although-it-was-not",
+      "year": 1843,
+      "prediction": "Although it was not officially endorsed by their leadership, many Millerites expected the Second Coming to occur on 28 April or at the end of 1843.",
+      "source": "Millerites",
+      "reality": "The predicted event did not occur as described by 1848.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1843-harriet-livermore-the-first-of-two-yea",
+      "year": 1843,
+      "prediction": "The first of two years this preacher predicted the world would end.",
+      "source": "Harriet Livermore",
+      "reality": "The predicted event did not occur as described by 1848.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1844-william-miller-miller-a-baptist-pr",
+      "year": 1844,
+      "prediction": "Miller, a Baptist preacher, predicted Christ would return on this day.",
+      "source": "William Miller",
+      "reality": "The predicted event did not occur as described by 1849.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1844-millerites-after-christ-did-not",
+      "year": 1844,
+      "prediction": "After Christ did not return on 21 March 1844, the Millerites then revised William Miller's prediction to 22 October the same year, claiming to have miscalculated Scripture. The realization that the predictions were incorrect resulted in the Great Disappointment .",
+      "source": "Millerites",
+      "reality": "The predicted event did not occur as described by 1849.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1847-george-rapp-rapp-the-founder-of",
+      "year": 1847,
+      "prediction": "Rapp, the founder of the Harmony Society , preached that Jesus would return in his lifetime, even as he lay dying on 7 August 1847.",
+      "source": "George Rapp",
+      "reality": "The predicted event did not occur as described by 1852.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1847-harriet-livermore-the-second-predictio",
+      "year": 1847,
+      "prediction": "The second prediction of the end of the world from this preacher.",
+      "source": "Harriet Livermore",
+      "reality": "The predicted event did not occur as described by 1852.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1862-john-cumming-this-scottish-clergy",
+      "year": 1862,
+      "prediction": "This Scottish clergyman stated it was 6,000 years since creation in 1862, and that the world would end.",
+      "source": "John Cumming",
+      "reality": "The predicted event did not occur as described by 1867.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1863-john-wroe-the-founder-of-the-c",
+      "year": 1863,
+      "prediction": "The founder of the Christian Israelite Church calculated that the Millennium would begin this year.",
+      "source": "John Wroe",
+      "reality": "The predicted event did not occur as described by 1868.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1873-jonas-wendell-in-1870-wendell-pub",
+      "year": 1873,
+      "prediction": "In 1870, Wendell published his views in the booklet entitled The Present Truth, or Meat in Due Season concluding that the Second Advent was sure to occur in 1873.",
+      "source": "Jonas Wendell",
+      "reality": "The predicted event did not occur as described by 1878.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1874-charles-taze-russell-this-christian-mini",
+      "year": 1874,
+      "prediction": "This Christian minister predicted the return of Jesus to occur in 1874, and after this date reinterpreted the prediction to say that Jesus had indeed returned in invisible form.",
+      "source": "Charles Taze Russell",
+      "reality": "The predicted event did not occur as described by 1879.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1881-mother-shipton-attrib-this-15th-centu",
+      "year": 1881,
+      "prediction": "This 15th-century prophet was quoted as saying \"The world to an end shall come, In eighteen hundred and eighty one\" in a book published in 1862. In 1873 it was revealed to be a forgery; however, this did not stop some people from expecting the end.",
+      "source": "Mother Shipton (attrib.)",
+      "reality": "The predicted event did not occur as described by 1886.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1890-wovoka-the-founder-of-the-g",
+      "year": 1890,
+      "prediction": "The founder of the Ghost Dance movement predicted in 1889 that the Millennium would occur in 1890.",
+      "source": "Wovoka",
+      "reality": "The predicted event did not occur as described by 1895.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1901-catholic-apostolic-church-founded-in-183",
+      "year": 1901,
+      "prediction": "Founded in 1831, this church claimed that Jesus would return by the time the last of its 12 founding members died. The last member died in 1901.",
+      "source": "Catholic Apostolic Church",
+      "reality": "The predicted event did not occur as described by 1906.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1901-annie-keeler-keeler-a-prominent",
+      "year": 1901,
+      "prediction": "Keeler, a prominent doctor in Connecticut, predicted that due to the alignment of the planets, the world would come to an end and \"complete the planetary cycle as it was in the days of Noah\".",
+      "source": "Annie Keeler",
+      "reality": "The predicted event did not occur as described by 1906.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1910-camille-flammarion-flammarion-predicted",
+      "year": 1910,
+      "prediction": "Flammarion predicted that the 1910 appearance of Halley's Comet \"would impregnate that atmosphere and possibly snuff out all life on the planet\" but not the planet itself. \"Comet pills\" were sold to protect against toxic gases.",
+      "source": "Camille Flammarion",
+      "reality": "The predicted event did not occur as described by 1915.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1892-charles-piazzi-smyth-this-pyramidologist",
+      "year": 1892,
+      "prediction": "This pyramidologist concluded from his research on the dimensions of the Great Pyramid of Giza that the Second Coming would occur somewhere between 1892 and 1911.",
+      "source": "Charles Piazzi Smyth",
+      "reality": "The predicted event did not occur as described by 1897.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1914-charles-taze-russell-russell-said-th",
+      "year": 1914,
+      "prediction": "Russell said \"...the battle of the great day of God Almighty... The date of the close of that 'battle' is definitely marked in Scripture as October 1914. It is already in progress, its beginning dating from October, 1874.\"",
+      "source": "Charles Taze Russell",
+      "reality": "The predicted event did not occur as described by 1919.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1915-john-chilembwe-this-baptist-educato",
+      "year": 1915,
+      "prediction": "This Baptist educator and leader of a rebellion in the British protectorate of Nyasaland predicted the Millennium would begin this year.",
+      "source": "John Chilembwe",
+      "reality": "The predicted event did not occur as described by 1920.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1918-international-bible-students-association",
+      "year": 1918,
+      "prediction": "\"Christendom shall be cut off and glorification of the Little Flock (The Church) in the Spring of 1918 A. D.\"",
+      "source": "International Bible Students Association",
+      "reality": "The predicted event did not occur as described by 1923.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1920-international-bible-students-association",
+      "year": 1920,
+      "prediction": "In 1918, Christendom would go down as a system to oblivion and be succeeded by revolutionary governments. God would \"destroy the churches wholesale and the church members by the millions.\" Church members would \"perish by the sword of war, revolution and anarchy.\" The dead would lie unburied. In 1920 all earthly governments would disappear, with worldwide anarchy prevailing.",
+      "source": "International Bible Students Association",
+      "reality": "The predicted event did not occur as described by 1925.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1925-margaret-rowen-according-to-this-se",
+      "year": 1925,
+      "prediction": "According to this Seventh-Day Adventist , the angel Gabriel appeared before her in a vision and told her that the world would end at midnight on this date.",
+      "source": "Margaret Rowen",
+      "reality": "The predicted event did not occur as described by 1930.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1926-spencer-perceval-this-british-mp-who",
+      "year": 1926,
+      "prediction": "This British MP, who was one of the 12 apostles of the Catholic Apostolic Church , believed that the world was growing nearer to the Apocalypse due to what he viewed as the rampant immorality of the times in Europe.",
+      "source": "Spencer Perceval",
+      "reality": "The predicted event did not occur as described by 1931.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1935-wilbur-glenn-voliva-this-evangelist-anno",
+      "year": 1935,
+      "prediction": "This evangelist announced that \"the world is going to go 'puff' and disappear\" in September 1935.",
+      "source": "Wilbur Glenn Voliva",
+      "reality": "The predicted event did not occur as described by 1940.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1936-herbert-w-armstrong-the-founder-of-the",
+      "year": 1936,
+      "prediction": "The founder of the Worldwide Church of God told members of his church that the Rapture was to take place in 1936, and that only they would be saved. After the prophecy failed, he changed the date three more times.",
+      "source": "Herbert W. Armstrong",
+      "reality": "The predicted event did not occur as described by 1941.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1941-jehovah-s-witnesses-a-prediction-of-the",
+      "year": 1941,
+      "prediction": "A prediction of the end from the Jehovah's Witnesses, a group that branched from the Bible Student movement.",
+      "source": "Jehovah's Witnesses",
+      "reality": "The predicted event did not occur as described by 1946.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1943-herbert-w-armstrong-the-first-of-three",
+      "year": 1943,
+      "prediction": "The first of three revised dates from Armstrong after his 1936 prediction failed to come true.",
+      "source": "Herbert W. Armstrong",
+      "reality": "The predicted event did not occur as described by 1948.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1947-john-ballou-newbrough-the-author-of-oahs",
+      "year": 1947,
+      "prediction": "The author of Oahspe: A New Bible foresaw the destruction of all nations and the beginning of post-apocalyptic anarchy in this year.",
+      "source": "John Ballou Newbrough",
+      "reality": "The predicted event did not occur as described by 1952.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1954-dorothy-martin-the-world-was-to-be",
+      "year": 1954,
+      "prediction": "The world was to be destroyed by terrible flooding on this date, claimed this leader of a UFO cult called Brotherhood of the Seven Rays . The fallout of the group after the prediction failed was the basis for the 1956 book When Prophecy Fails .",
+      "source": "Dorothy Martin",
+      "reality": "The predicted event did not occur as described by 1959.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1959-florence-houteff-the-second-prophet-o",
+      "year": 1959,
+      "prediction": "The second prophet of the Branch Davidians predicted the apocalypse foretold in the Book of Revelation would proceed on this date. The failure of the prophecy led to the split of the sect into several subsects, the most prominent led by Benjamin and Lois Roden.",
+      "source": "Florence Houteff",
+      "reality": "The predicted event did not occur as described by 1964.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1962-jeane-dixon-various-indian-astrologers",
+      "year": 1962,
+      "prediction": "Dixon predicted a planetary alignment on this day was to bring destruction to the world. Mass prayer meetings were held in India.",
+      "source": "Jeane Dixon , various Indian astrologers",
+      "reality": "The predicted event did not occur as described by 1967.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1967-george-van-tassel-this-day-would-mark",
+      "year": 1967,
+      "prediction": "This day would mark the beginning of the third woe of the Apocalypse, during which the southeastern US would be destroyed by a Soviet nuclear attack, according to this UFO prophet, who claimed to have channeled an alien named Ashtar .",
+      "source": "George Van Tassel",
+      "reality": "The predicted event did not occur as described by 1972.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1967-jim-jones-the-founder-of-the-p",
+      "year": 1967,
+      "prediction": "The founder of the People's Temple stated he had visions that a nuclear holocaust was to take place in 1967.",
+      "source": "Jim Jones",
+      "reality": "The predicted event did not occur as described by 1972.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1969-george-williams-the-founder-of-the-c",
+      "year": 1969,
+      "prediction": "The founder of the Church of the Firstborn predicted the Second Coming of Christ would occur on this day.",
+      "source": "George Williams",
+      "reality": "The predicted event did not occur as described by 1974.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1969-charles-manson-manson-predicted-tha",
+      "year": 1969,
+      "prediction": "Manson predicted that Helter skelter , an apocalyptic race war, would occur in 1969.",
+      "source": "Charles Manson",
+      "reality": "The predicted event did not occur as described by 1974.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1972-herbert-w-armstrong-the-second-of-three",
+      "year": 1972,
+      "prediction": "The second of three revised dates from Armstrong after his 1936 and 1943 predictions failed to come true.",
+      "source": "Herbert W. Armstrong",
+      "reality": "The predicted event did not occur as described by 1977.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1974-david-berg-berg-the-leader-of",
+      "year": 1974,
+      "prediction": "Berg, the leader of Children of God , predicted that there would be a colossal doomsday event heralded by Comet Kohoutek .",
+      "source": "David Berg",
+      "reality": "The predicted event did not occur as described by 1979.",
+      "category": "Environmental Doom",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1975-herbert-w-armstrong-armstrong-s-fourth",
+      "year": 1975,
+      "prediction": "Armstrong's fourth and final prediction.",
+      "source": "Herbert W. Armstrong",
+      "reality": "The predicted event did not occur as described by 1980.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1976-brahma-kumaris-the-brahma-kumaris-f",
+      "year": 1976,
+      "prediction": "The Brahma Kumaris founder, Lekhraj Kirpalani, has made a number of predictions of a global Armageddon which the religion believes it will inspire, internally calling it \"Destruction\". During Destruction, Brahma Kumari leaders teach the world will be purified, all of the rest of humanity killed by nuclear or civil wars and natural disasters which will include the sinking of all other continents except India.",
+      "source": "Brahma Kumaris",
+      "reality": "The predicted event did not occur as described by 1981.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1977-john-wroe-the-founder-of-the-c",
+      "year": 1977,
+      "prediction": "The founder of the Christian Israelite Church predicted this year for Armageddon to occur.",
+      "source": "John Wroe",
+      "reality": "The predicted event did not occur as described by 1982.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1980-leland-jensen-jensen-predicted-in",
+      "year": 1980,
+      "prediction": "Jensen predicted in 1978 that there would be a nuclear disaster in 1980, followed by two decades of conflict, culminating in God's Kingdom being established on Earth.",
+      "source": "Leland Jensen",
+      "reality": "The predicted event did not occur as described by 1985.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1981-chuck-smith-the-founder-of-calva",
+      "year": 1981,
+      "prediction": "The founder of Calvary Chapel predicted that the generation of 1948 would be the last generation and the world would end by 1981. Smith said that he \"could be wrong\" but added that his prediction was \"a deep conviction in my heart, and all my plans are predicated upon that belief.\"",
+      "source": "Chuck Smith",
+      "reality": "The predicted event did not occur as described by 1986.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1982-john-gribbin-stephen-plagemann-gribbin",
+      "year": 1982,
+      "prediction": "Gribbin, an astrophysicist, co-authored the 1974 book The Jupiter Effect which predicted that combined gravitational forces of aligned planets would create a number of catastrophes, including a great earthquake on the San Andreas Fault .",
+      "source": "John Gribbin , Stephen Plagemann",
+      "reality": "The predicted event did not occur as described by 1987.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1982-benjamin-creme-creme-took-out-an-ad",
+      "year": 1982,
+      "prediction": "Creme took out an ad in the Los Angeles Times stating that the Second Coming would occur in June 1982, and the Maitreya announced it on worldwide television.",
+      "source": "Benjamin Creme",
+      "reality": "The predicted event did not occur as described by 1987.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1982-pat-robertson-in-late-1976-robert",
+      "year": 1982,
+      "prediction": "In late 1976, Robertson predicted on his The 700 Club TV programme that the end of the world would come in this year.",
+      "source": "Pat Robertson",
+      "reality": "The predicted event did not occur as described by 1987.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1985-lester-sumrall-this-pentecostal-min",
+      "year": 1985,
+      "prediction": "This Pentecostal minister predicted the end of the world in this year, even writing a book about it entitled I Predict 1985 .",
+      "source": "Lester Sumrall",
+      "reality": "The predicted event did not occur as described by 1990.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1986-leland-jensen-jensen-predicted-tha",
+      "year": 1986,
+      "prediction": "Jensen predicted that Halley's Comet would be pulled into Earth's orbit on this day, causing widespread destruction.",
+      "source": "Leland Jensen",
+      "reality": "The predicted event did not occur as described by 1991.",
+      "category": "Environmental Doom",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1987-jos-arg-elles-arg-elles-claimed-th",
+      "year": 1987,
+      "prediction": "Argüelles claimed that Armageddon would happen unless 144,000 people gathered in certain places across the world in order to \" resonate in harmony \" on this day.",
+      "source": "José Argüelles",
+      "reality": "The predicted event did not occur as described by 1992.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1988-edgar-c-whisenant-whisenant-predicted",
+      "year": 1988,
+      "prediction": "Whisenant predicted in his book 88 Reasons Why the Rapture Could Be in 1988 that the Rapture of the Christian Church would occur between 11 and 13 September 1988. After this prediction failed to come true, Whisenant revised his prediction date to 3 October.",
+      "source": "Edgar C. Whisenant",
+      "reality": "The predicted event did not occur as described by 1993.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1989-edgar-c-whisenant-after-all-his-1988-p",
+      "year": 1989,
+      "prediction": "After all his 1988 predictions failed to come true, Whisenant revised his prediction date to this day.",
+      "source": "Edgar C. Whisenant",
+      "reality": "The predicted event did not occur as described by 1994.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1990-elizabeth-clare-prophet-prophet-predicte",
+      "year": 1990,
+      "prediction": "Prophet predicted a nuclear war would start on this day, and the world would end 12 years later, leading her followers to stockpile a shelter with supplies and weapons. After Prophet's prediction did not come to pass, she was later diagnosed with epilepsy and Alzheimer's disease .",
+      "source": "Elizabeth Clare Prophet",
+      "reality": "The predicted event did not occur as described by 1995.",
+      "category": "Economic Collapse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1991-menachem-mendel-schneerson-this-russian",
+      "year": 1991,
+      "prediction": "This Russian-born rabbi called for the Messiah to come by the start of the Jewish New Year .",
+      "source": "Menachem Mendel Schneerson",
+      "reality": "The predicted event did not occur as described by 1996.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1991-louis-farrakhan-the-leader-of-the-na",
+      "year": 1991,
+      "prediction": "The leader of the Nation of Islam declared that the Gulf War would be the \"War of Armageddon which is the final war\".",
+      "source": "Louis Farrakhan",
+      "reality": "The predicted event did not occur as described by 1996.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1992-rollen-stewart-this-born-again-chri",
+      "year": 1992,
+      "prediction": "This born-again Christian predicted the Rapture would take place on this day.",
+      "source": "Rollen Stewart",
+      "reality": "The predicted event did not occur as described by 1997.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1992-lee-jang-rim-or-lee-the-leade",
+      "year": 1992,
+      "prediction": "Lee, the leader of the Dami Mission church, predicted the rapture would occur on this day.",
+      "source": "Lee Jang Rim (이장림 or 李長林)",
+      "reality": "The predicted event did not occur as described by 1997.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1993-david-berg-berg-predicted-the-t",
+      "year": 1993,
+      "prediction": "Berg predicted the tribulation would start in 1989 and that the Second Coming would take place in 1993.",
+      "source": "David Berg",
+      "reality": "The predicted event did not occur as described by 1998.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1994-edgar-c-whisenant-when-his-1993-predic",
+      "year": 1994,
+      "prediction": "When his 1993 prediction failed to materialise, Whisenant updated it to 1994.",
+      "source": "Edgar C. Whisenant",
+      "reality": "The predicted event did not occur as described by 1999.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1994-neal-chase-this-bah-sect-lea",
+      "year": 1994,
+      "prediction": "This Bahá'í sect leader predicted that New York City would be destroyed by a nuclear bomb on 23 March 1994, and the Battle of Armageddon would take place 40 days later.",
+      "source": "Neal Chase",
+      "reality": "The predicted event did not occur as described by 1999.",
+      "category": "War & Conflict",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1994-harold-camping-camping-predicted-th",
+      "year": 1994,
+      "prediction": "Camping predicted the Rapture would occur on 6 September 1994. When it failed to occur he revised the date to 29 September and then 2 October.",
+      "source": "Harold Camping",
+      "reality": "The predicted event did not occur as described by 1999.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1995-harold-camping-camping-s-fourth-pre",
+      "year": 1995,
+      "prediction": "Camping's fourth predicted date for the end. This would be Camping's last prediction until 2011.",
+      "source": "Harold Camping",
+      "reality": "The predicted event did not occur as described by 2000.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1996-sheldan-nidle-nidle-a-californian",
+      "year": 1996,
+      "prediction": "Nidle, a Californian psychic, predicted that the world would end on this date, with the arrival of 16 million space ships and a host of angels.",
+      "source": "Sheldan Nidle",
+      "reality": "The predicted event did not occur as described by 2001.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1997-marshall-applewhite-applewhite-leader-o",
+      "year": 1997,
+      "prediction": "Applewhite, leader of the Heaven's Gate cult , claimed that a spacecraft was trailing the Comet Hale-Bopp and argued that suicide was \"the only way to evacuate this Earth\" so that the cult members' souls could board the supposed craft and be taken to another \"level of existence above human\". Applewhite and 38 of his followers committed mass suicide.",
+      "source": "Marshall Applewhite",
+      "reality": "The predicted event did not occur as described by 2002.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1997-james-ussher-this-17th-century-ir",
+      "year": 1997,
+      "prediction": "This 17th-century Irish archbishop predicted this date to be 6,000 years since creation and therefore the end of the world.",
+      "source": "James Ussher",
+      "reality": "The predicted event did not occur as described by 2002.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1998-hon-ming-chen-chen-leader-of-the",
+      "year": 1998,
+      "prediction": "Chen, leader of the Taiwanese cult Chen Tao – \"The True Way\" – claimed that God would come to Earth in a flying saucer at 10:00 am on this date.",
+      "source": "Hon-Ming Chen",
+      "reality": "The predicted event did not occur as described by 2003.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1999-nostradamus-a-quatrain-by-nostra",
+      "year": 1999,
+      "prediction": "A quatrain by Nostradamus that stated the \"King of Terror\" would come from the sky in \"1999 and seven months\" was frequently interpreted as a prediction of doomsday in July 1999.",
+      "source": "Nostradamus",
+      "reality": "The predicted event did not occur as described by 2004.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1999-the-amazing-criswell-the-predicted-date",
+      "year": 1999,
+      "prediction": "The predicted date of the end of the world, according to this psychic well known for predictions.",
+      "source": "The Amazing Criswell",
+      "reality": "The predicted event did not occur as described by 2004.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1999-philip-berg-berg-dean-of-the-wo",
+      "year": 1999,
+      "prediction": "Berg, dean of the worldwide Kabbalah Centre , stated that on this date \"a ball of fire will descend, destroying almost all of mankind, all vegetation, all forms of life.\"",
+      "source": "Philip Berg",
+      "reality": "The predicted event did not occur as described by 2004.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1999-charles-berlitz-this-linguist-predic",
+      "year": 1999,
+      "prediction": "This linguist predicted the end would occur in this year. He did not predict how it would happen, stating that it might involve nuclear devastation, asteroid impact, pole shift or other Earth changes.",
+      "source": "Charles Berlitz",
+      "reality": "The predicted event did not occur as described by 2004.",
+      "category": "Environmental Doom",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2000-james-gordon-lindsay-this-preacher-predi",
+      "year": 2000,
+      "prediction": "This preacher predicted the great tribulation would begin before 2000.",
+      "source": "James Gordon Lindsay",
+      "reality": "The predicted event did not occur as described by 2005.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2000-various-during-and-before-19",
+      "year": 2000,
+      "prediction": "During and before 1999, there were widespread predictions of a computer bug that would crash many computers at midnight on 1 January 2000, causing malfunctions that would lead to major catastrophes worldwide, and that society would cease to function.",
+      "source": "Various",
+      "reality": "The predicted event did not occur as described by 2005.",
+      "category": "Economic Collapse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2000-james-harmston-the-leader-of-the-tr",
+      "year": 2000,
+      "prediction": "The leader of the True and Living Church of Jesus Christ of Saints of the Last Days predicted the Second Coming of Christ would occur on this day.",
+      "source": "James Harmston",
+      "reality": "The predicted event did not occur as described by 2005.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2000-nuwaubian-nation-this-movement-claime",
+      "year": 2000,
+      "prediction": "This movement claimed that the planetary lineup would cause a \"star holocaust\", pulling the planets toward the Sun on this day.",
+      "source": "Nuwaubian Nation",
+      "reality": "The predicted event did not occur as described by 2005.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2001-tynnetta-muhammad-this-columnist-for-t",
+      "year": 2001,
+      "prediction": "This columnist for the Nation of Islam predicted the end would occur in this year.",
+      "source": "Tynnetta Muhammad",
+      "reality": "The predicted event did not occur as described by 2006.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2003-nancy-lieder-lieder-originally-pr",
+      "year": 2003,
+      "prediction": "Lieder originally predicted the date for the Nibiru collision as May 2003. According to her website, aliens in the Zeta Reticuli star system told her through messages via a brain implant of a planet which would enter the Solar System and cause a pole shift on Earth that would destroy most of humanity.",
+      "source": "Nancy Lieder",
+      "reality": "The predicted event did not occur as described by 2008.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2003-aum-shinrikyo-this-japanese-cult",
+      "year": 2003,
+      "prediction": "This Japanese cult, which carried out the Tokyo subway sarin attack in 1995, predicted the world would be destroyed by a nuclear war between 30 October and 29 November 2003.",
+      "source": "Aum Shinrikyo",
+      "reality": "The predicted event did not occur as described by 2008.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2006-house-of-yahweh-yisrayl-hawkins-pas",
+      "year": 2006,
+      "prediction": "Yisrayl Hawkins, pastor and overseer of The House of Yahweh, predicted in his February 2006 newsletter that a nuclear war would begin on 12 September 2006.",
+      "source": "House of Yahweh",
+      "reality": "The predicted event did not occur as described by 2011.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2007-pat-robertson-in-his-1990-book-the",
+      "year": 2007,
+      "prediction": "In his 1990 book The New Millennium , Robertson suggests this date as the day of Earth's destruction.",
+      "source": "Pat Robertson",
+      "reality": "The predicted event did not occur as described by 2012.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2007-pyotr-kuznetsov-the-founder-of-the-t",
+      "year": 2007,
+      "prediction": "The founder of the True Russian Orthodox Church predicted doomsday would occur this month. Kuznetsov and his followers hid in a cave in anticipation of the end, and Kuznetsov attempted suicide after his prediction failed to come true.",
+      "source": "Pyotr Kuznetsov",
+      "reality": "The predicted event did not occur as described by 2012.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2010-hermetic-order-of-the-golden-dawn-this-m",
+      "year": 2010,
+      "prediction": "This magical organization , which existed from 1887 to 1903, predicted the world would end during this year.",
+      "source": "Hermetic Order of the Golden Dawn",
+      "reality": "The predicted event did not occur as described by 2015.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2011-harold-camping-camping-predicted-th",
+      "year": 2011,
+      "prediction": "Camping predicted that the Rapture and devastating earthquakes would occur on this date , with God taking approximately 3% of the world's population into Heaven, and that the end of the world would occur five months later on 21 October.",
+      "source": "Harold Camping",
+      "reality": "The predicted event did not occur as described by 2016.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2011-ronald-weinland-weinland-the-founde",
+      "year": 2011,
+      "prediction": "Weinland, the founder of the Church of God Preparing for the Kingdom of God , stated Jesus would return on this day. After his prophecy failed to come true he changed the date to 27 May 2012.",
+      "source": "Ronald Weinland",
+      "reality": "The predicted event did not occur as described by 2016.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2011-harold-camping-when-his-original-pr",
+      "year": 2011,
+      "prediction": "When his original prediction failed to come true five months earlier, Camping revised his prediction by saying that on 21 May a \"Spiritual Judgment\" had taken place, and both the physical Rapture and the end of the world would occur on 21 October 2011.",
+      "source": "Harold Camping",
+      "reality": "The predicted event did not occur as described by 2016.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2011-various-there-were-fears-amo",
+      "year": 2011,
+      "prediction": "There were fears amongst the public that Comet Elenin travelling almost directly between Earth and the Sun would cause disturbances to the Earth's crust, causing massive earthquakes and tidal waves. Others predicted that Elenin would collide with Earth on 16 October. Scientists stated that none of these events were possible in an effort to calm the public.",
+      "source": "Various",
+      "reality": "The predicted event did not occur as described by 2016.",
+      "category": "Environmental Doom",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2012-ronald-weinland-weinland-s-revised-d",
+      "year": 2012,
+      "prediction": "Weinland's revised date for the return of Jesus following the failure of his 2011 prediction.",
+      "source": "Ronald Weinland",
+      "reality": "The predicted event did not occur as described by 2017.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2012-jos-luis-de-jes-s-this-cult-leader-pre",
+      "year": 2012,
+      "prediction": "This cult leader predicted that the world's governments and economies would fail on this day, and that he and his followers would undergo a transformation that would allow them to fly and walk through walls.",
+      "source": "José Luis de Jesús",
+      "reality": "The predicted event did not occur as described by 2017.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2012-various-the-2012-phenomenon",
+      "year": 2012,
+      "prediction": "The 2012 phenomenon predicted the world would end at the end of the 13th b'ak'tun . The Earth would be destroyed by an asteroid, Nibiru, or some other interplanetary object; an alien invasion ; or a supernova . Mayanist scholars stated that no extant classic Maya accounts forecasted impending doom, and that the idea that the Long Count calendar ends in 2012 misrepresented Maya history and culture. Scientists from NASA , along with expert archeologists, stated that none of those events were possible.",
+      "source": "Various",
+      "reality": "The predicted event did not occur as described by 2017.",
+      "category": "Environmental Doom",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2013-grigori-rasputin-rasputin-a-russian",
+      "year": 2013,
+      "prediction": "Rasputin, a Russian mystic who died in 1916, prophesied a storm would take place on this day where fire would destroy most life on land and Jesus would come back to Earth to comfort those in distress.",
+      "source": "Grigori Rasputin",
+      "reality": "The predicted event did not occur as described by 2018.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2014-john-hagee-mark-biltz-the-so-called-bl",
+      "year": 2014,
+      "prediction": "The so-called blood moon prophecy , first predicted by Mark Blitz in 2008 and then by John Hagee in 2014. These Christian ministers claim that the tetrad in 2014 and 2015 may represent the beginning of the Messianic end times .",
+      "source": "John Hagee , Mark Biltz",
+      "reality": "The predicted event did not occur as described by 2019.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2017-david-meade-conspiracy-theorist",
+      "year": 2017,
+      "prediction": "Conspiracy theorist David Meade predicted that Nibiru would become visible in the sky and would \"soon\" destroy the Earth.",
+      "source": "David Meade",
+      "reality": "The predicted event did not occur as described by 2022.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2018-david-meade-after-his-2017-predi",
+      "year": 2018,
+      "prediction": "After his 2017 prediction failed, Meade predicted the rapture would take place and that the world would end on this date.",
+      "source": "David Meade",
+      "reality": "The predicted event did not occur as described by 2023.",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2019-ronald-weinland-weinland-had-previou",
+      "year": 2019,
+      "prediction": "Weinland had previously predicted the world would end in 2011, and then 2012.",
+      "source": "Ronald Weinland",
+      "reality": "The predicted event did not occur as described by 2024.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2020-jeane-dixon-dixon-predicted-that",
+      "year": 2020,
+      "prediction": "Dixon predicted that Armageddon would take place in 2020. She had previously predicted the world would end on 4 February 1962.",
+      "source": "Jeane Dixon",
+      "reality": "The predicted event did not occur as described by 2025.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2021-f-kenton-beshore-this-american-pastor",
+      "year": 2021,
+      "prediction": "This American pastor based his prediction on the prior suggestion that Jesus would return in 1988, i.e., within one biblical generation (40 years) of the founding of Israel in 1948. Beshore argued that the prediction was correct, but that the definition of a biblical generation was incorrect and was actually 70–80 years, placing the second coming of Jesus between 2018 and 2028 and the rapture by 2021 at the latest.",
+      "source": "F. Kenton Beshore",
+      "reality": "The predicted event did not occur as described by 2025.",
+      "category": "Political Catastrophe",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "2025-joshua-mhlakela-and-various-tiktok-users",
+      "year": 2025,
+      "prediction": "South African pastor Joshua Mhlakela prophesied the Biblical Rapture where Jesus would ascend true believers to heaven before global tribulation, leading to the hashtag # RaptureTok on TikTok with videos amassing millions of views on tips like survival kits for those \"left behind\" and historical context of repeated failed predictions. Mhlakela later revised his prediction date based on the Julian calendar after its initial failure.",
+      "source": "Joshua Mhlakela and various TikTok users",
+      "reality": "[ 192 ] [ 193 ] [ 194 ]",
+      "category": "Tech Apocalypse",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1979-shell-plateau-by-2004",
+      "year": 1979,
+      "prediction": "Plateau by 2004",
+      "source": "Shell",
+      "reality": "The predicted event did not occur as described by 1984.",
+      "category": "Food & Resource Scarcity",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1981-world-bank-plateau-around-2000",
+      "year": 1981,
+      "prediction": "Plateau around 2000",
+      "source": "World Bank",
+      "reality": "The predicted event did not occur as described by 1986.",
+      "category": "Food & Resource Scarcity",
+      "tags": [],
+      "_harvested": true
+    },
+    {
+      "id": "1994-l-f-ivanhoe-opec-plateau-2000-20",
+      "year": 1994,
+      "prediction": "OPEC plateau 2000–2050",
+      "source": "L. F. Ivanhoe",
+      "reality": "The predicted event did not occur as described by 1999.",
+      "category": "Food & Resource Scarcity",
+      "tags": [],
+      "_harvested": true
     }
   ]
 }

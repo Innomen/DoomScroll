@@ -1,0 +1,62 @@
+# curator.txt — The Doom That Wasn't
+# Curated by Claude. Format: Wikipedia_Article_Title | category hint
+# Add new lines to expand harvesting. Run: python scripts/harvest.py --write
+#
+# ── TIER 1: Pure gold — structured tables of past-deadline predictions ─────────
+
+List_of_dates_predicted_for_apocalyptic_events | War & Conflict Political Catastrophe religious doomsday
+Unfulfilled_religious_predictions | Social Breakdown Political Catastrophe religious prophecy
+
+# ── TIER 2: Economic predictions that aged badly ──────────────────────────────
+
+Limits_to_Growth | Food & Resource Scarcity Environmental Doom overpopulation resource depletion
+The_Population_Bomb | Food & Resource Scarcity famine overpopulation ehrlich
+Peak_oil | Food & Resource Scarcity Economic Collapse energy
+Secular_stagnation | Economic Collapse growth economy
+Long_Depression | Economic Collapse depression recovery
+Japanese_asset_price_bubble | Economic Collapse japan bubble
+
+# ── TIER 3: Technology panics ─────────────────────────────────────────────────
+
+Year_2000_problem | Tech Apocalypse y2k computers millennium
+Dot-com_bubble | Tech Apocalypse internet economy ecommerce
+Criticism_of_technology | Tech Apocalypse social breakdown
+Moral_panic | Social Breakdown technology media youth
+Video_game_controversies | Social Breakdown violence crime youth
+Satanic_panic | Social Breakdown crime cult
+Stranger_danger | Social Breakdown crime children
+
+# ── TIER 4: Health scares ─────────────────────────────────────────────────────
+
+Swine_influenza | Health Crisis pandemic flu h1n1
+Severe_acute_respiratory_syndrome | Health Crisis pandemic sars containment
+Ebola_virus_epidemic_in_West_Africa | Health Crisis pandemic ebola
+Alar_scare | Health Crisis food safety cancer pesticide
+Bovine_spongiform_encephalopathy | Health Crisis mad cow prion beef
+West_Nile_virus | Health Crisis virus pandemic mosquito
+Zika_fever | Health Crisis virus pandemic birth defects
+
+# ── TIER 5: Environmental predictions ────────────────────────────────────────
+
+Ozone_depletion | Environmental Doom ozone UV montreal protocol
+Acid_rain | Environmental Doom pollution forests recovery
+Colony_collapse_disorder | Environmental Doom bees agriculture pollination
+DDT | Environmental Doom pesticide environment birds
+Great_Pacific_garbage_patch | Environmental Doom ocean plastic pollution
+
+# ── TIER 6: Geopolitical / war scares ────────────────────────────────────────
+
+Able_Archer_83 | War & Conflict nuclear cold war soviet
+Cuban_Missile_Crisis | War & Conflict nuclear cold war missiles
+2003_invasion_of_Iraq | War & Conflict weapons of mass destruction iraq
+Domino_theory | War & Conflict communism cold war vietnam
+
+# ── TIER 7: Social breakdown predictions ────────────────────────────────────
+
+Crack_epidemic | Social Breakdown drugs crime addiction
+War_on_drugs | Social Breakdown drugs crime policy
+Video_nasty | Social Breakdown violence media film censorship
+Golden_age_of_television | Social Breakdown television moral
+
+# ── ADD YOUR OWN BELOW ────────────────────────────────────────────────────────
+# Format: Wikipedia_Article_Title | category hint keywords
