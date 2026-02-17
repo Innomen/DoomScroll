@@ -103,7 +103,7 @@ doom-scroll/
 
 *"Just go back to last year's doom and gloom reports and notice how none of it actually came to pass."*
 
-This project is not a denial of real problems. Climate change is real. Antibiotic resistance is real. Many of the concerns behind these predictions were legitimate. The point is that human beings have a consistent tendency to forecast catastrophe at a scale and timeline that systematically exceeds what materializes — and there's genuine comfort in seeing that pattern documented.
+This project is not a denial of real problems. Antibiotic resistance is real. Many of the concerns behind these predictions were legitimate. The point is that human beings have a consistent tendency to forecast catastrophe at a scale and timeline that systematically exceeds what materializes — and there's genuine comfort in seeing that pattern documented.
 
 ---
 
