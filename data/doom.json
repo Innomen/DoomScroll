@@ -1,0 +1,513 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "A database of doom predictions that failed to materialize. Add entries freely.",
+    "schema": {
+      "id": "unique string slug",
+      "year": "year prediction was made (number)",
+      "prediction": "the original scary claim, as it was framed at the time",
+      "source": "who made it — publication, institution, named expert",
+      "reality": "what actually happened instead",
+      "category": "one of the categories listed below",
+      "tags": "optional array of extra search tags"
+    },
+    "categories": [
+      "Economic Collapse",
+      "Tech Apocalypse",
+      "Environmental Doom",
+      "Political Catastrophe",
+      "Health Crisis",
+      "Social Breakdown",
+      "Food & Resource Scarcity",
+      "War & Conflict"
+    ]
+  },
+  "entries": [
+    {
+      "id": "y2k-computers",
+      "year": 1999,
+      "prediction": "The Y2K bug will crash global banking systems, power grids, and air traffic control at midnight on January 1st, 2000 — triggering a worldwide civilizational collapse.",
+      "source": "US Senate Special Committee on Y2K, major news networks",
+      "reality": "January 1st, 2000 arrived without incident. A handful of minor software glitches occurred in obscure systems. Planes did not fall from the sky. Banks did not lose records. Life continued normally.",
+      "category": "Tech Apocalypse",
+      "tags": ["y2k", "millennium", "computers", "infrastructure"]
+    },
+    {
+      "id": "population-bomb",
+      "year": 1968,
+      "prediction": "The battle to feed all of humanity is over. In the 1970s hundreds of millions of people will starve to death in spite of any crash programs embarked upon now.",
+      "source": "Paul Ehrlich, 'The Population Bomb'",
+      "reality": "Global food production grew faster than population. Famines that did occur were mostly caused by war and politics, not scarcity. Global caloric intake per person has risen significantly since 1968.",
+      "category": "Food & Resource Scarcity",
+      "tags": ["population", "famine", "agriculture", "ehrlich"]
+    },
+    {
+      "id": "peak-oil-2010",
+      "year": 2005,
+      "prediction": "Peak oil is imminent — global oil production will begin an irreversible decline by 2010, triggering economic collapse, resource wars, and the end of modern civilization.",
+      "source": "ASPO (Association for the Study of Peak Oil), multiple economists",
+      "reality": "U.S. oil production hit record highs by the 2010s due to fracking. Global oil supply remained robust. The feared resource wars did not materialize on the predicted scale.",
+      "category": "Food & Resource Scarcity",
+      "tags": ["oil", "energy", "peak oil", "resources"]
+    },
+    {
+      "id": "global-cooling-1970s",
+      "year": 1974,
+      "prediction": "The world is entering a new ice age. Global cooling caused by industrial pollution will bring crop failures, mass starvation, and a dramatic drop in global temperatures within decades.",
+      "source": "TIME Magazine, National Science Board",
+      "reality": "The planet warmed, not cooled. This prediction was based on a partial reading of the science at the time and was not the scientific consensus, though it was widely reported as such.",
+      "category": "Environmental Doom",
+      "tags": ["climate", "cooling", "ice age", "1970s"]
+    },
+    {
+      "id": "swine-flu-2009",
+      "year": 2009,
+      "prediction": "The H1N1 swine flu pandemic will be as devastating as the 1918 Spanish flu — potentially killing tens of millions and overwhelming healthcare systems worldwide.",
+      "source": "WHO, CDC, and widespread international media coverage",
+      "reality": "H1N1 killed an estimated 151,000–575,000 people globally in its first year — serious, but far below the predicted catastrophic scale. It was later reclassified as a moderately severe flu.",
+      "category": "Health Crisis",
+      "tags": ["pandemic", "flu", "h1n1", "swine flu"]
+    },
+    {
+      "id": "bird-flu-h5n1",
+      "year": 2005,
+      "prediction": "H5N1 bird flu is on the verge of mutating into a human-transmissible pandemic that could kill between 5 million and 150 million people worldwide.",
+      "source": "WHO, Dr. David Nabarro (UN), multiple health agencies",
+      "reality": "H5N1 never acquired efficient human-to-human transmission. As of the late 2010s, it had infected fewer than 1,000 people globally over a decade.",
+      "category": "Health Crisis",
+      "tags": ["pandemic", "bird flu", "h5n1", "avian flu"]
+    },
+    {
+      "id": "euro-collapse-2012",
+      "year": 2011,
+      "prediction": "The Eurozone is on the brink of collapse. Greece's debt crisis will trigger a chain reaction that destroys the single currency and possibly the European Union itself.",
+      "source": "Nouriel Roubini, numerous financial analysts, The Economist",
+      "reality": "The Euro survived. Greece received bailouts and remained in the Eurozone. The EU continued to function. While painful austerity followed, the predicted catastrophic breakup did not occur.",
+      "category": "Economic Collapse",
+      "tags": ["euro", "europe", "greece", "debt", "currency"]
+    },
+    {
+      "id": "2008-depression",
+      "year": 2008,
+      "prediction": "The financial crisis of 2008 will trigger a second Great Depression — unemployment exceeding 25%, a decade of deflation, and a permanent collapse in living standards.",
+      "source": "Multiple economists, financial commentators",
+      "reality": "The recession was severe, but stimulus measures and bank bailouts prevented a depression. U.S. unemployment peaked at 10% and fell steadily. The economy recovered within a few years.",
+      "category": "Economic Collapse",
+      "tags": ["recession", "banking", "depression", "2008", "finance"]
+    },
+    {
+      "id": "qe-hyperinflation",
+      "year": 2010,
+      "prediction": "The Federal Reserve's quantitative easing program will inevitably trigger hyperinflation, destroying the value of the US dollar and collapsing the American economy.",
+      "source": "Numerous economists, Ron Paul, Peter Schiff, Wall Street Journal op-eds",
+      "reality": "Inflation remained historically low through the 2010s, often falling below the Fed's 2% target. The predicted hyperinflation did not materialize despite years of QE.",
+      "category": "Economic Collapse",
+      "tags": ["inflation", "fed", "dollar", "quantitative easing", "monetary policy"]
+    },
+    {
+      "id": "japan-domination",
+      "year": 1989,
+      "prediction": "Japan will overtake the United States as the world's dominant economic power within a decade. Japanese companies will own America.",
+      "source": "Widespread US media consensus; multiple best-selling books",
+      "reality": "Japan's asset bubble burst in 1991, beginning the 'Lost Decade.' Japan's economy stagnated while the U.S. boomed through the 1990s. Japan never overtook the U.S. economy.",
+      "category": "Economic Collapse",
+      "tags": ["japan", "trade", "economy", "1980s", "bubble"]
+    },
+    {
+      "id": "internet-collapse",
+      "year": 1995,
+      "prediction": "The internet will catastrophically collapse under its own weight within two years. It cannot possibly scale to handle millions of users and will destroy itself.",
+      "source": "Robert Metcalfe, Ethernet inventor, InfoWorld (he ate his column when wrong)",
+      "reality": "The internet scaled remarkably well and grew to connect billions of people. Metcalfe publicly ate his words — literally blending a printed copy of his article and drinking it at a conference.",
+      "category": "Tech Apocalypse",
+      "tags": ["internet", "networking", "1990s", "scaling"]
+    },
+    {
+      "id": "mayan-2012",
+      "year": 2009,
+      "prediction": "The ancient Mayan calendar predicts the end of the world on December 21, 2012. A cosmic event — planetary alignment, solar flare, or rogue planet Nibiru — will end civilization.",
+      "source": "Widespread internet culture, multiple books, a Roland Emmerich film",
+      "reality": "December 22, 2012 arrived normally. Archaeologists noted that the Mayan calendar simply rolled over to a new cycle, as our own calendar does on January 1st.",
+      "category": "Environmental Doom",
+      "tags": ["mayan", "2012", "apocalypse", "nibiru", "doomsday"]
+    },
+    {
+      "id": "acid-rain-forests",
+      "year": 1984,
+      "prediction": "Acid rain from industrial pollution is destroying forests across Europe and North America so rapidly that they will be largely dead by the end of the century.",
+      "source": "West German government reports, widespread European media",
+      "reality": "Acid rain was a real problem, but clean air legislation dramatically reduced sulfur emissions. European and North American forests largely recovered. Forest cover has actually increased in many regions.",
+      "category": "Environmental Doom",
+      "tags": ["acid rain", "forests", "pollution", "1980s"]
+    },
+    {
+      "id": "ozone-crops",
+      "year": 1987,
+      "prediction": "The expanding ozone hole will increase UV radiation to catastrophic levels, devastating global agriculture and causing a mass extinction event within 50 years.",
+      "source": "Various scientific reports following the Montreal Protocol negotiations",
+      "reality": "The Montreal Protocol worked. The ozone hole has been measurably recovering since the 2000s. Agricultural catastrophe did not occur. The ozone layer is expected to fully recover by mid-century.",
+      "category": "Environmental Doom",
+      "tags": ["ozone", "UV", "atmosphere", "montreal protocol"]
+    },
+    {
+      "id": "nuclear-war-1983",
+      "year": 1983,
+      "prediction": "Nuclear war between the US and USSR is nearly inevitable within the next few years. Able Archer 83 military exercises will trigger a Soviet first strike.",
+      "source": "KGB intelligence reports; Stanislav Petrov situation; multiple think tanks",
+      "reality": "Nuclear war did not occur. The Cold War ended peacefully in 1991 with the dissolution of the Soviet Union. No nuclear weapons have been used in conflict since 1945.",
+      "category": "War & Conflict",
+      "tags": ["nuclear", "cold war", "ussr", "arms race", "1983"]
+    },
+    {
+      "id": "gulf-war-oil-fires",
+      "year": 1991,
+      "prediction": "The Kuwaiti oil fires set by Saddam Hussein will trigger a 'nuclear winter'-style cooling event, killing crops across Asia and causing mass starvation.",
+      "source": "Carl Sagan and colleagues; multiple atmospheric scientists",
+      "reality": "The fires were extinguished within months. The smoke rose higher than expected but dispersed without the catastrophic atmospheric effects predicted. Global crops were unaffected.",
+      "category": "Environmental Doom",
+      "tags": ["gulf war", "kuwait", "oil fires", "nuclear winter", "sagan"]
+    },
+    {
+      "id": "sars-pandemic",
+      "year": 2003,
+      "prediction": "SARS will spread globally and unstoppably, potentially infecting hundreds of millions and causing a pandemic worse than the 1918 flu.",
+      "source": "WHO emergency declarations; widespread media reporting",
+      "reality": "SARS infected about 8,000 people globally and killed 774. Aggressive containment — isolation, contact tracing, travel advisories — stopped it cold. It remains one of public health's great success stories.",
+      "category": "Health Crisis",
+      "tags": ["sars", "pandemic", "2003", "china", "containment"]
+    },
+    {
+      "id": "dotcom-end-of-capitalism",
+      "year": 2000,
+      "prediction": "The dot-com crash marks the end of the internet economy. E-commerce has been proven a fantasy. The internet will never be central to commerce or daily life.",
+      "source": "Multiple financial commentators post-dot-com crash",
+      "reality": "Amazon, Google, and Apple went on to become the most valuable companies in history. E-commerce now accounts for trillions of dollars annually. The internet became the central nervous system of global economy.",
+      "category": "Tech Apocalypse",
+      "tags": ["dotcom", "internet", "e-commerce", "amazon", "2000"]
+    },
+    {
+      "id": "millennium-bug-planes",
+      "year": 1999,
+      "prediction": "Aircraft will fall from the sky on January 1, 2000, as Y2K bugs corrupt flight control computers mid-flight, causing mass aviation disasters worldwide.",
+      "source": "Various Y2K preparedness consultants; media reporting",
+      "reality": "Not a single plane fell from the sky. Aviation authorities had prepared extensively, and no significant Y2K-related aviation incidents occurred.",
+      "category": "Tech Apocalypse",
+      "tags": ["y2k", "aviation", "aircraft", "millennium"]
+    },
+    {
+      "id": "ebola-2014-global",
+      "year": 2014,
+      "prediction": "The 2014 West African Ebola outbreak will inevitably spread beyond Africa and become a global pandemic, potentially killing millions in the developed world.",
+      "source": "Multiple US media outlets; some public health analysts",
+      "reality": "Ebola was devastating in West Africa but was contained. Outside Africa, only a handful of cases occurred — mostly healthcare workers who had treated patients. No global spread materialized.",
+      "category": "Health Crisis",
+      "tags": ["ebola", "2014", "pandemic", "africa", "containment"]
+    },
+    {
+      "id": "landfill-crisis-1987",
+      "year": 1987,
+      "prediction": "America is running out of landfill space. By the mid-1990s, the US will face a garbage crisis so severe that cities will not be able to dispose of trash.",
+      "source": "EPA reports; 'Garbage Crisis' media panic following the Mobro garbage barge",
+      "reality": "Recycling expanded, waste management improved, and the garbage crisis never materialized. Landfills became more efficient. Many regions reported surplus capacity.",
+      "category": "Environmental Doom",
+      "tags": ["landfill", "garbage", "waste", "recycling", "1980s"]
+    },
+    {
+      "id": "russia-china-war-1969",
+      "year": 1969,
+      "prediction": "The Sino-Soviet border conflict will escalate into full-scale nuclear war between China and the Soviet Union, potentially drawing in the United States.",
+      "source": "Western intelligence assessments; mainstream media during Ussuri River skirmishes",
+      "reality": "The conflict remained a limited border skirmish. China and the Soviet Union stepped back from the brink. Nixon's subsequent opening to China fundamentally changed the geopolitical dynamic.",
+      "category": "War & Conflict",
+      "tags": ["china", "russia", "soviet", "nuclear", "1969", "border"]
+    },
+    {
+      "id": "ai-takes-all-jobs",
+      "year": 2013,
+      "prediction": "Within 10–20 years, nearly half of all US jobs will be automated out of existence by AI and robotics, triggering mass unemployment and societal collapse.",
+      "source": "Oxford study by Frey & Osborne (47% of jobs at risk); widely cited in media",
+      "reality": "Automation has transformed many jobs without eliminating them at scale. US unemployment hit record lows in the late 2010s. New job categories emerged. The predicted mass unemployment did not materialize.",
+      "category": "Tech Apocalypse",
+      "tags": ["AI", "automation", "robots", "jobs", "unemployment"]
+    },
+    {
+      "id": "super-gonorrhea-extinction",
+      "year": 2013,
+      "prediction": "Drug-resistant 'super gonorrhea' will spread globally within years and become entirely untreatable, triggering a sexual health catastrophe worse than the AIDS crisis.",
+      "source": "WHO; widespread media reporting",
+      "reality": "Drug-resistant gonorrhea remains a serious public health concern, but new treatments continue to be developed. The predicted untreatable global outbreak did not materialize by the predicted timeline.",
+      "category": "Health Crisis",
+      "tags": ["antibiotic resistance", "gonorrhea", "bacteria", "sexual health"]
+    },
+    {
+      "id": "water-wars-2000",
+      "year": 2000,
+      "prediction": "By 2025, wars fought over fresh water will be more common than oil wars. Nations will collapse as rivers run dry and aquifers are depleted globally.",
+      "source": "World Bank VP Ismail Serageldin; numerous geopolitical analysts",
+      "reality": "Water scarcity is a genuine ongoing challenge, but widespread 'water wars' have not materialized. International water-sharing agreements have largely held.",
+      "category": "War & Conflict",
+      "tags": ["water", "resources", "wars", "scarcity", "rivers"]
+    },
+    {
+      "id": "social-media-democracy-collapse",
+      "year": 2012,
+      "prediction": "Social media will fragment society so completely by 2020 that democratic elections will become impossible, replaced by chaos and mob rule.",
+      "source": "Multiple political scientists; Eli Pariser 'The Filter Bubble'",
+      "reality": "Democratic elections continued to take place in nearly all established democracies. Social media has created real challenges for political discourse, but democracy has proven more resilient than predicted.",
+      "category": "Social Breakdown",
+      "tags": ["social media", "democracy", "elections", "filter bubble"]
+    },
+    {
+      "id": "5g-health-crisis",
+      "year": 2019,
+      "prediction": "5G wireless networks will cause mass cancer outbreaks, immune system damage, and neurological disorders, creating a public health catastrophe within years of deployment.",
+      "source": "Viral social media; fringe scientists; widely shared petitions",
+      "reality": "5G has been deployed in hundreds of cities globally. No evidence of the predicted health effects has emerged. Major health agencies worldwide found no evidence of harm.",
+      "category": "Health Crisis",
+      "tags": ["5g", "wireless", "radiation", "cancer", "conspiracy"]
+    },
+    {
+      "id": "nuclear-power-meltdown-epidemic",
+      "year": 1979,
+      "prediction": "Following Three Mile Island, experts warned that the US nuclear power industry would experience multiple catastrophic meltdowns per decade, making large areas of the country uninhabitable.",
+      "source": "Anti-nuclear movement; various safety engineers; media consensus",
+      "reality": "Three Mile Island was the only significant US nuclear accident. No additional major meltdowns occurred in America. The industry continued operating with an improved safety record.",
+      "category": "Tech Apocalypse",
+      "tags": ["nuclear power", "three mile island", "meltdown", "1979"]
+    },
+    {
+      "id": "bee-colony-collapse",
+      "year": 2013,
+      "prediction": "Colony collapse disorder will cause total global bee population collapse within 5 years, triggering agricultural failure and the end of most flowering plant species.",
+      "source": "Multiple environmental scientists; UNEP reports; mainstream media",
+      "reality": "Colony collapse disorder remains a concern, but bee populations have shown resilience. US honeybee colony numbers stabilized. Global food production continued to grow.",
+      "category": "Environmental Doom",
+      "tags": ["bees", "colony collapse", "agriculture", "pollination"]
+    },
+    {
+      "id": "crack-baby-epidemic",
+      "year": 1986,
+      "prediction": "A generation of 'crack babies' will be permanently neurologically damaged, creating an untenable burden on social services and producing a cohort of children unable to function in society.",
+      "source": "CBS News, multiple pediatric researchers, Congressional testimony",
+      "reality": "Follow-up studies showed crack-exposed children fared no worse — and sometimes better — than children exposed to tobacco or alcohol. Poverty was the far greater developmental factor.",
+      "category": "Social Breakdown",
+      "tags": ["crack cocaine", "crack babies", "1980s", "drugs", "neurology"]
+    },
+    {
+      "id": "cia-crack-baby-epidemic",
+      "year": 1972,
+      "prediction": "Heroin addiction will permanently cripple an entire generation of returning Vietnam veterans, creating millions of untreatable addicts who will overwhelm American society.",
+      "source": "US government addiction researchers; Congressional reports",
+      "reality": "A landmark Lee Robins study found 95% of addicted veterans simply stopped using heroin after returning home. The vast majority of returning soldiers did not become lifetime addicts.",
+      "category": "Social Breakdown",
+      "tags": ["vietnam", "heroin", "addiction", "veterans", "1970s"]
+    },
+    {
+      "id": "google-glasses-everywhere",
+      "year": 2013,
+      "prediction": "Google Glass will be ubiquitous within 5 years, fundamentally destroying privacy and social interaction, with millions of people being secretly recorded at all times.",
+      "source": "Widespread tech media and privacy advocates",
+      "reality": "Google Glass was a commercial failure, discontinued for consumers in 2015. The feared 'glasshole' surveillance dystopia never arrived.",
+      "category": "Tech Apocalypse",
+      "tags": ["google glass", "augmented reality", "privacy", "surveillance", "wearables"]
+    },
+    {
+      "id": "japans-lost-decade-end-of-west",
+      "year": 1991,
+      "prediction": "Japan's economic model will be copied by all of Asia, making Western-style capitalism obsolete and condemning Europe and America to permanent economic decline.",
+      "source": "Multiple economic commentators post-Japanese bubble peak",
+      "reality": "Japan's bubble burst spectacularly. The 'Asian model' fell from favor after the 1997 Asian financial crisis. Western capitalism, while flawed, did not face the predicted obsolescence.",
+      "category": "Economic Collapse",
+      "tags": ["japan", "asia", "capitalism", "economic model", "1990s"]
+    },
+    {
+      "id": "video-games-violence",
+      "year": 1993,
+      "prediction": "Violent video games will create a generation of desensitized killers — violent crime, particularly among youth, will skyrocket to unprecedented levels by the 2000s.",
+      "source": "US Senate hearings; Joseph Lieberman; American Psychological Association",
+      "reality": "Youth violent crime in the US fell dramatically through the 1990s and 2000s — the very period when violent video games became mainstream. Research consistently failed to find a causal link.",
+      "category": "Social Breakdown",
+      "tags": ["video games", "violence", "youth", "crime", "morality"]
+    },
+    {
+      "id": "covid-second-wave-no-recovery",
+      "year": 2020,
+      "prediction": "The economic devastation from COVID-19 lockdowns will cause a depression lasting 10+ years, permanently destroying the service sector and causing unemployment above 20% through the mid-2020s.",
+      "source": "Multiple financial analysts; IMF worst-case scenarios",
+      "reality": "The recovery was remarkably fast. US unemployment dropped from 14.7% in April 2020 to below 4% by 2022. Stock markets recovered within months. The feared decade-long depression did not materialize.",
+      "category": "Economic Collapse",
+      "tags": ["covid", "pandemic", "depression", "unemployment", "recovery"]
+    },
+    {
+      "id": "bitcoin-zero-2018",
+      "year": 2018,
+      "prediction": "Bitcoin will go to zero. The cryptocurrency bubble has burst permanently, and all crypto assets will be worthless within 12 months.",
+      "source": "Nouriel Roubini, multiple economists and financial commentators post-2017 crash",
+      "reality": "Bitcoin recovered and hit new all-time highs in 2020 and 2021. The entire crypto asset class continued to exist and grow, though with significant volatility.",
+      "category": "Economic Collapse",
+      "tags": ["bitcoin", "cryptocurrency", "bubble", "finance", "2018"]
+    },
+    {
+      "id": "print-media-death",
+      "year": 2008,
+      "prediction": "The newspaper industry will be completely dead within 5 years. The internet has made print journalism economically nonviable, and journalism itself will cease to exist as a profession.",
+      "source": "Multiple media analysts; Clay Shirky; widespread tech commentators",
+      "reality": "Print circulation fell sharply, but journalism survived and adapted. Digital news outlets flourished. Investigative journalism continued producing major exposes. The profession, though transformed, did not disappear.",
+      "category": "Social Breakdown",
+      "tags": ["newspapers", "journalism", "internet", "print media", "2008"]
+    },
+    {
+      "id": "iran-war-2007",
+      "year": 2007,
+      "prediction": "US military strikes on Iran are imminent and inevitable — war with Iran will begin within months, drawing in the entire Middle East and potentially triggering World War III.",
+      "source": "Seymour Hersh reporting; multiple intelligence analysts; widespread media",
+      "reality": "The US did not strike Iran. Diplomatic channels, including the 2015 nuclear deal, became the primary approach. As of the mid-2020s, direct US-Iran military conflict has not occurred.",
+      "category": "War & Conflict",
+      "tags": ["iran", "middle east", "war", "nuclear", "2007"]
+    },
+    {
+      "id": "north-korea-war-2017",
+      "year": 2017,
+      "prediction": "North Korea's rapid nuclear weapons development will inevitably trigger a US preemptive strike or North Korean first use within 12–18 months, leading to a war killing millions.",
+      "source": "Multiple US defense analysts; H.R. McMaster statements; media consensus",
+      "reality": "After a period of extreme tension, Trump and Kim Jong-un held summits in 2018-2019. No war occurred. North Korea continues to develop weapons, but large-scale conflict has been avoided.",
+      "category": "War & Conflict",
+      "tags": ["north korea", "nuclear", "korea", "2017", "trump", "kim"]
+    },
+    {
+      "id": "alar-scare-apples",
+      "year": 1989,
+      "prediction": "Alar pesticide residue on apples poses a massive cancer risk to American children — the apple industry must be shut down immediately or a pediatric cancer epidemic will follow.",
+      "source": "60 Minutes; Natural Resources Defense Council; widespread media",
+      "reality": "The EPA later concluded that Alar posed no significant health risk at consumption levels. The scare caused enormous economic damage to apple farmers. No pediatric cancer epidemic emerged.",
+      "category": "Health Crisis",
+      "tags": ["alar", "pesticides", "apples", "cancer", "food safety", "1989"]
+    },
+    {
+      "id": "facebook-owns-democracy",
+      "year": 2016,
+      "prediction": "Facebook's algorithm has so completely broken democracy that free, fair elections are now permanently impossible in any country where Facebook operates at scale.",
+      "source": "Multiple political scientists; tech journalists; post-2016 analysis",
+      "reality": "Elections have continued in over 100 countries. While social media has real effects on political discourse, elections have not ceased. Several incumbents backed by sophisticated social media operations have lost.",
+      "category": "Political Catastrophe",
+      "tags": ["facebook", "social media", "elections", "democracy", "2016"]
+    },
+    {
+      "id": "robots-replace-surgeons",
+      "year": 2015,
+      "prediction": "AI will replace most surgeons, lawyers, and accountants within a decade — entire skilled professions will vanish, and the middle-class professional will go extinct.",
+      "source": "McKinsey Global Institute; multiple technology forecasters",
+      "reality": "AI has become a powerful tool for these professions, but has not replaced them. The number of licensed surgeons, lawyers, and accountants has grown. New AI-adjacent roles emerged alongside old ones.",
+      "category": "Tech Apocalypse",
+      "tags": ["AI", "automation", "professions", "surgeons", "lawyers", "white collar"]
+    },
+    {
+      "id": "china-collapse-2001",
+      "year": 2001,
+      "prediction": "China's economy is riddled with bad debt, corruption, and unsustainable growth — it will suffer a catastrophic economic collapse within 5–10 years.",
+      "source": "Gordon Chang, 'The Coming Collapse of China'",
+      "reality": "China did not collapse. It became the world's second-largest economy, lifted hundreds of millions out of poverty, and joined the WTO. The book's prediction remains spectacularly unfulfilled.",
+      "category": "Economic Collapse",
+      "tags": ["china", "economy", "collapse", "2001", "gordon chang"]
+    },
+    {
+      "id": "telephones-rot-brain",
+      "year": 1889,
+      "prediction": "Telephone wires crisscrossing cities will interfere with the natural electrical fields of the human body, causing epidemic rates of neurological disease and mental illness.",
+      "source": "American medical journals; physician letters to newspapers",
+      "reality": "Telephones became ubiquitous without any such health effects. The predicted epidemic of telephone-induced neurological disease never occurred.",
+      "category": "Health Crisis",
+      "tags": ["telephone", "electricity", "19th century", "neurology", "technology"]
+    },
+    {
+      "id": "video-cassette-piracy",
+      "year": 1982,
+      "prediction": "Home video recorders will destroy the film industry through piracy. The VCR is to the American film producer what the Boston Strangler is to a woman home alone.",
+      "source": "Jack Valenti, MPAA President, Congressional testimony",
+      "reality": "The VCR created the home video market, which became a massive revenue stream for studios. Home video sales and rentals generated more revenue than theatrical releases for decades.",
+      "category": "Tech Apocalypse",
+      "tags": ["VCR", "piracy", "film industry", "MPAA", "1982", "copyright"]
+    },
+    {
+      "id": "mad-cow-uk-epidemic",
+      "year": 1996,
+      "prediction": "Variant CJD (human mad cow disease) will infect hundreds of thousands to millions of Britons who ate contaminated beef, causing an epidemic of fatal brain disease.",
+      "source": "UK government scientists; Nature journal estimates; widespread media",
+      "reality": "vCJD caused approximately 180 deaths in the UK through 2020. Devastating for those affected, but the predicted mass epidemic did not materialize.",
+      "category": "Health Crisis",
+      "tags": ["mad cow", "BSE", "CJD", "prion", "beef", "UK", "1990s"]
+    },
+    {
+      "id": "powerline-cancer",
+      "year": 1989,
+      "prediction": "Power lines emit electromagnetic fields that will cause a childhood leukemia epidemic — millions of homes near power lines must be vacated immediately.",
+      "source": "New Yorker (Paul Brodeur); widespread media; some scientists",
+      "reality": "Decades of follow-up studies found no consistent evidence linking power line EMF to childhood leukemia. The proposed epidemic never materialized. EMF guidelines were set conservatively as a precaution.",
+      "category": "Health Crisis",
+      "tags": ["power lines", "EMF", "cancer", "leukemia", "radiation", "1989"]
+    },
+    {
+      "id": "killer-bees-invasion",
+      "year": 1975,
+      "prediction": "Africanized 'killer bees' spreading north from South America will reach the US by 1990 and kill thousands of Americans annually, creating a public health emergency.",
+      "source": "USDA entomologists; widespread media; multiple government reports",
+      "reality": "Africanized bees did reach the US (Texas, 1990) but their impact was far more limited than predicted. Annual deaths from all bee stings in the US typically range from 40–100.",
+      "category": "Health Crisis",
+      "tags": ["killer bees", "africanized bees", "insects", "1970s", "invasion"]
+    },
+    {
+      "id": "asteroid-2029",
+      "year": 2004,
+      "prediction": "Asteroid Apophis has a 2.7% chance — the highest ever calculated — of directly striking Earth in 2029, potentially causing regional devastation equal to thousands of nuclear bombs.",
+      "source": "NASA JPL; widespread science media",
+      "reality": "Further orbital calculations eliminated any 2029 impact risk. Apophis will pass within 20,000 miles of Earth in 2029 — close but safe. NASA confirmed zero impact risk through at least 2116.",
+      "category": "Environmental Doom",
+      "tags": ["asteroid", "apophis", "2029", "impact", "space"]
+    },
+    {
+      "id": "superbug-mrsa-apocalypse",
+      "year": 2007,
+      "prediction": "MRSA (drug-resistant staph) is spreading through communities uncontrollably and will become an untreatable pandemic killing more people than AIDS within a decade.",
+      "source": "JAMA study; CDC; widespread media",
+      "reality": "MRSA rates declined significantly after peak years in 2007. Infection control practices improved. While antibiotic resistance remains a serious public health concern, the predicted AIDS-scale pandemic did not materialize.",
+      "category": "Health Crisis",
+      "tags": ["MRSA", "antibiotic resistance", "superbug", "bacteria", "2007"]
+    },
+    {
+      "id": "teen-internet-addiction",
+      "year": 2000,
+      "prediction": "Internet addiction will destroy an entire generation — by 2010, a majority of teenagers will be clinically addicted, unable to form relationships or hold employment.",
+      "source": "Multiple psychologists; media panics; congressional hearings",
+      "reality": "While excessive screen time has real effects, the predicted generation of clinically addicted, unemployable young people did not emerge. Millennials — the first internet generation — show high rates of education and workforce participation.",
+      "category": "Social Breakdown",
+      "tags": ["internet", "addiction", "teenagers", "screen time", "2000s"]
+    },
+    {
+      "id": "iran-nuclear-bomb-2007",
+      "year": 2007,
+      "prediction": "Iran will have a nuclear weapon within 12–18 months. Nothing can stop this, and a nuclear-armed Iran will trigger an immediate nuclear exchange with Israel.",
+      "source": "Multiple US intelligence assessments (later revised); numerous think tanks",
+      "reality": "Iran did not produce a nuclear weapon. The 2015 nuclear deal significantly constrained its program. No nuclear exchange with Israel occurred.",
+      "category": "War & Conflict",
+      "tags": ["iran", "nuclear weapons", "israel", "middle east", "2007"]
+    },
+    {
+      "id": "tv-rots-children",
+      "year": 1961,
+      "prediction": "Television will destroy children's capacity for literacy, imagination, and social bonding. Within a generation, TV will produce a population incapable of reading or critical thought.",
+      "source": "Marie Winn 'The Plug-In Drug'; FCC Chairman Newton Minow; prominent educators",
+      "reality": "Literacy rates continued to improve globally through the television age. Critical thinking skills, while always in debate, did not collapse. The feared generation of illiterates never arrived.",
+      "category": "Social Breakdown",
+      "tags": ["television", "TV", "children", "literacy", "1960s", "media"]
+    },
+    {
+      "id": "ecommerce-never-work",
+      "year": 1995,
+      "prediction": "Consumers will never trust giving credit card numbers to a website. E-commerce is a fantasy — people will never buy things they can't physically examine from faceless online stores.",
+      "source": "Clifford Stoll, Newsweek; multiple retail analysts",
+      "reality": "Global e-commerce surpassed $5 trillion annually by the early 2020s. Billions of people routinely make online purchases. Amazon became one of the most valuable companies in history.",
+      "category": "Tech Apocalypse",
+      "tags": ["e-commerce", "internet", "amazon", "shopping", "1990s", "credit cards"]
+    }
+  ]
+}
