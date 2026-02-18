@@ -582,6 +582,7 @@ function buildDisplayList() {
   }
 
   // Sort: voted items to bottom, then by algo weight desc, then shuffle rest
+  list.sort(() => Math.random() - 0.5);
   list.sort((a, b) => {
     const aVoted = votes[a.id] ? 1 : 0;
     const bVoted = votes[b.id] ? 1 : 0;
